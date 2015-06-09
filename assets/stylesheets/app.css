@@ -48,8 +48,9 @@ body {
 }
 
 .page {
+  position: relative;
   min-width: 1000px;
-  padding: 0 20px;
+  padding: 0 20px 100px;
   margin: 30px auto;
 }
 
@@ -129,5 +130,21 @@ body {
 
 .currency .threads a:hover {
   color: #f90;
+}
+
+.donate {
+  position: absolute;
+  bottom: 10px;
+  left: 30px;
+  right: 30px;
+  font-size: 16px;
+  text-align: center;
+}
+
+.donate span,
+.donate iframe {
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 10px;
 }
 

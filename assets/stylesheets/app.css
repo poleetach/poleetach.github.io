@@ -24,7 +24,25 @@ body {
   text-transform: uppercase;
 }
 
+.switch {
+  float: right;
+  font-weight: 400;
+  font-size: 12px;
+  color: #666;
+}
+
+.switch a {
+  margin: 0 3px;
+  color: #00d19f;
+}
+
+.switch a.active {
+  text-decoration: none;
+  font-weight: 700;
+}
+
 .logo {
+  float: left;
   font-weight: 600;
   font-size: 28px;
   letter-spacing: 2px;
@@ -137,7 +155,7 @@ body {
   bottom: 10px;
   left: 30px;
   right: 30px;
-  font-size: 16px;
+  font-size: 14px;
   text-align: center;
 }
 
@@ -146,5 +164,57 @@ body {
   display: inline-block;
   vertical-align: middle;
   margin-right: 10px;
+}
+
+
+.list-view {
+  display: none;
+  overflow: hidden;
+}
+
+.list-view ul {
+  display: inline-block;
+  vertical-align: top;
+  margin: 0 40px 60px 0;
+  width: 16%;
+}
+
+.list-view-header {
+  font-size: 14px;
+  color: #333;
+  margin-bottom: 5px;
+}
+
+.list-view-body .thread-item {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.list-view-body .thread-item span {
+  font-weight: 500;
+  color: #666;
+}
+
+.list-view-body a {
+  color: #666;
+}
+
+.list-view-body a:hover {
+  color: #f60;
+  text-decoration: none;
+}
+
+.list-view-header .usd {
+  margin-left: 5px;
+  font-weight: 500;
+  color: #f60;
+}
+
+.list-view h2 {
+  font-weight: 300;
+  font-size: 26px;
+  margin-bottom: 40px;
+  text-align: center;
 }
 

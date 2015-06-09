@@ -11,27 +11,38 @@
 </head>
 
 <body>
-  <div class="header">
+  <div class="header clearfix">
     <div class="logo">ОБР <span>с нами зарабатывают миллионы</span> <i>российских рублей.</i></div>
+    <div class="switch">
+      <span>Архив в виде:</span>
+      <a href="#" class="js-chart-view active">графика</a> / <a href="#" class="js-list-view">списка</a>
+    </div>
   </div>
 
   <div class="page clearfix">
-    <div id="chart" style="height: 400px; min-width: 310px"></div>
-    <div class="list">
-      <div class="hint">
-        <p>Клкни на точку на графике, чтобы увидеть архив тредов выбранного дня.</p>
-      </div>
+    <div class="list-view">
+      <h2>Список ОБР-тредов в хронологическом порядке</h2>
+      <div class="list-view-container"></div>
+    </div>
 
-      <div class="currency">
-        <div class="date"></div>
-        <div class="value"></div>
-        <div class="threads"></div>
+    <div class="chart-view">
+      <div id="chart" style="height: 400px; min-width: 310px"></div>
+      <div class="list">
+        <div class="hint">
+          <p>Клкни на точку на графике, чтобы увидеть архив тредов выбранного дня.</p>
+        </div>
+
+        <div class="currency">
+          <div class="date"></div>
+          <div class="value"></div>
+          <div class="threads"></div>
+        </div>
       </div>
     </div>
 
     <div class="donate">
-      <span>Отблагодарить анона</span>
-      <iframe frameborder="0" allowtransparency="true" scrolling="no" src="https://money.yandex.ru/embed/small.xml?account=410013224186821&quickpay=small&yamoney-payment-type=on&button-text=01&button-size=s&button-color=orange&targets=%D0%B1%D0%BB%D0%B0%D0%B3%D0%BE%D0%B4%D0%B0%D1%80%D1%8E&default-sum=100&successURL=" width="137" height="31"></iframe>
+      <span>Отблагодарить анона через Яндекс.Деньги:</span>
+      <strong>410013224186821</strong>
     </div>
   </div>
 

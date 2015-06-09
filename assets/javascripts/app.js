@@ -1,12 +1,52 @@
 $(function() {
 
+  $('.switch a').on('click', function(e) {
+    e.preventDefault();
+    var $this = $(this);
+    $('.switch a').removeClass('active');
+    if ($this.hasClass('active')) {
+      $this.removeClass('active');
+    } else {
+      $this.addClass('active');
+    }
+
+    if ($this.hasClass('js-list-view')) {
+      $('.chart-view').hide();
+      $('.list-view').show();
+    } else if ($this.hasClass('js-chart-view')) {
+      $('.list-view').hide();
+      $('.chart-view').show();
+    }
+  });
+
+
   var usd = [], dates = [], threads = [];
+
+  var listView = '';
 
   $.each(data.obr, function(i, val) {
     usd.push(parseFloat(val.usd));
     dates.push(val.date);
     threads.push(val.threads);
+
+    var th = '';
+    var keys = Object.keys(val.threads).toString().split(',');
+    for(var i=0; i<keys.length; i++) {
+      th += '<div class="thread-item"><span>№' + keys[i] + ':</span> <a target="_blank" href="' + val.threads[keys[i]] + '">' + val.threads[keys[i]] + '</a></div>'
+    }
+
+    listView += '<ul>' +
+                  '<li>' +
+                    '<div class="list-view-header">' +
+                      '<span class="date">' + val.date + '</span>' +
+                      '<span class="usd">$1 = ' + val.usd + '&#8381;</span>' +
+                    '</div>' +
+                    '<div class="list-view-body">' + th + '</div>' +
+                  '</li>' +
+                '</ul>';
   });
+
+  $('.list-view-container').html(listView);
 
   $('#chart').highcharts({
     chart: {

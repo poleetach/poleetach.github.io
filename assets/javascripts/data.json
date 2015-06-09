@@ -1,0 +1,3169 @@
+var data = {
+  "obr": [
+    {
+      "date": "03.03.2014",
+      "threads": {
+        "01": "http://tellmemore.name/arhivach/2ch/po/3669006/chernyy_ponedelnik_2",
+        "02": "http://tellmemore.name/arhivach/2ch/po/3671246",
+        "03": "https://archive.today/Y5Lav",
+        "04": "https://archive.is/gnNuj"
+      },
+      "usd": "36.1847"
+    },
+
+
+    {
+      "date": "04.03.2014",
+      "threads": {
+        "05": "https://arhivach.org/thread/14710/"
+      },
+      "usd": "36.3784"
+    },
+    {
+      "date": "05.03.2014",
+      "threads": {
+        "06": "http://tellmemore.name/arhivach/2ch/po/3713536/obezumevshego_rublya_tred_6"
+      },
+      "usd": "36.3208"
+    },
+    {
+      "date": "06.03.2014",
+      "threads": {
+        "07": "https://arhivach.org/thread/14905/"
+      },
+      "usd": "36.0849"
+    },
+    {
+      "date": "07.03.2014",
+      "threads": {
+        "08": "https://arhivach.org/thread/15027/"
+      },
+      "usd": "36.1251"
+    },
+    {
+      "date": "08.03.2014",
+      "threads": {
+        "09": "https://arhivach.org/thread/15094/"
+      },
+      "usd": "36.2618"
+    },
+    {
+      "date": "09.03.2014",
+      "threads": {
+        "10": "https://arhivach.org/thread/15178/"
+      },
+      "usd": "36.2618"
+    },
+    {
+      "date": "10.03.2014",
+      "threads": {
+        "11": "https://arhivach.org/thread/15306/"
+      },
+      "usd": "36.2618"
+    },
+    {
+      "date": "11.03.2014",
+      "threads": {
+        "12": "https://arhivach.org/thread/15330/"
+      },
+      "usd": "36.2618"
+    },
+    {
+      "date": "12.03.2014",
+      "threads": {
+        "13": "https://arhivach.org/thread/15410/",
+        "14": "https://arhivach.org/thread/15454/"
+      },
+      "usd": "36.4015"
+    },
+    {
+      "date": "13.03.2014",
+      "threads": {
+        "15": "https://arhivach.org/thread/15490/",
+        "16": "https://arhivach.org/thread/15510/",
+        "17": "https://arhivach.org/thread/15578/"
+      },
+      "usd": "36.4865"
+    },
+    {
+      "date": "14.03.2014",
+      "threads": {
+        "18": "https://arhivach.org/thread/15604/",
+        "19": "https://arhivach.org/thread/15626/"
+      },
+      "usd": "36.4566"
+    },
+    {
+      "date": "15.03.2014",
+      "threads": {
+        "20": "https://arhivach.org/thread/15649/",
+        "21": "https://arhivach.org/thread/15718/",
+        "22": "https://arhivach.org/thread/15781/"
+      },
+      "usd": "36.6391"
+    },
+    {
+      "date": "16.03.2014",
+      "threads": {
+        "23": "https://arhivach.org/thread/15814/",
+        "24": "https://arhivach.org/thread/15843/"
+      },
+      "usd": "36.6391"
+    },
+    {
+      "date": "17.03.2014",
+      "threads": {
+        "25": "https://arhivach.org/thread/15896/",
+        "26": "https://arhivach.org/thread/15941/",
+        "27": "https://arhivach.org/thread/15977/",
+        "28": "https://arhivach.org/thread/16004/"
+      },
+      "usd": "36.6391"
+    },
+    {
+      "date": "18.03.2014",
+      "threads": {
+        "29": "https://arhivach.org/thread/16059/",
+        "30": "https://arhivach.org/thread/16096/",
+        "31": "https://arhivach.org/thread/16118/"
+      },
+      "usd": "36.6505"
+    },
+    {
+      "date": "19.03.2014",
+      "threads": {
+        "32": "https://arhivach.org/thread/16163/",
+        "33": "https://arhivach.org/thread/16192/"
+      },
+      "usd": "36.4487"
+    },
+    {
+      "date": "20.03.2014",
+      "threads": {
+        "34": "https://arhivach.org/thread/16259/",
+        "35": "https://arhivach.org/thread/16330/"
+      },
+      "usd": "36.2070"
+    },
+    {
+      "date": "21.03.2014",
+      "threads": {
+        "36": "https://arhivach.org/thread/16374/",
+        "37": "https://arhivach.org/thread/16427/",
+        "38": "https://arhivach.org/thread/16493/"
+      },
+      "usd": "36.1081"
+    },
+    {
+      "date": "23.03.2014",
+      "threads": {
+        "39": "https://arhivach.org/thread/16602/"
+      },
+      "usd": "36.4022"
+    },
+    {
+      "date": "24.03.2014",
+      "threads": {
+        "40": "https://arhivach.org/thread/16752/"
+      },
+      "usd": "36.4022"
+    },
+    {
+      "date": "25.03.2014",
+      "threads": {
+        "41": "https://arhivach.org/thread/16852/"
+      },
+      "usd": "36.1663"
+    },
+    {
+      "date": "26.03.2014",
+      "threads": {
+        "42": "https://arhivach.org/thread/16991/"
+      },
+      "usd": "35.9316"
+    },
+    {
+      "date": "27.03.2014",
+      "threads": {
+        "43": "https://arhivach.org/thread/17057/",
+        "44": "https://arhivach.org/thread/17107/"
+      },
+      "usd": "35.4494"
+    },
+    {
+      "date": "28.03.2014",
+      "threads": {
+        "45": "https://arhivach.org/thread/17227/"
+      },
+      "usd": "35.5810"
+    },
+    {
+      "date": "30.03.2014",
+      "threads": {
+        "46": "https://arhivach.org/thread/17454/"
+      },
+      "usd": "35.6871"
+    },
+    {
+      "date": "01.04.2014",
+      "threads": {
+        "47": "https://arhivach.org/thread/17649/"
+      },
+      "usd": "35.6053"
+    },
+    {
+      "date": "02.04.2014",
+      "threads": {
+        "48": "https://arhivach.org/thread/17792/"
+      },
+      "usd": "35.0240"
+    },
+    {
+      "date": "03.04.2014",
+      "threads": {
+        "49": "https://arhivach.org/thread/17901/"
+      },
+      "usd": "35.2517"
+    },
+    {
+      "date": "05.04.2014",
+      "threads": {
+        "50": "https://arhivach.org/thread/18128/"
+      },
+      "usd": "35.5010"
+    },
+    {
+      "date": "07.04.2014",
+      "threads": {
+        "51": "https://arhivach.org/thread/18290/"
+      },
+      "usd": "35.5010"
+    },
+    {
+      "date": "09.04.2014",
+      "threads": {
+        "52": "https://arhivach.org/thread/18511/"
+      },
+      "usd": "35.5475"
+    },
+    {
+      "date": "10.04.2014",
+      "threads": {
+        "53": "https://arhivach.org/thread/18713/"
+      },
+      "usd": "35.7493"
+    },
+    {
+      "date": "12.04.2014",
+      "threads": {
+        "54": "https://arhivach.org/thread/18932/"
+      },
+      "usd": "35.6239"
+    },
+    {
+      "date": "14.04.2014",
+      "threads": {
+        "55": "https://arhivach.org/thread/19111/"
+      },
+      "usd": "35.6239"
+    },
+    {
+      "date": "15.04.2014",
+      "threads": {
+        "56": "https://arhivach.org/thread/19290/"
+      },
+      "usd": "35.9890"
+    },
+    {
+      "date": "17.04.2014",
+      "threads": {
+        "57": "https://arhivach.org/thread/19375/"
+      },
+      "usd": "36.0813"
+    },
+    {
+      "date": "18.04.2014",
+      "threads": {
+        "58": "https://arhivach.org/thread/19518/"
+      },
+      "usd": "35.9287"
+    },
+    {
+      "date": "19.04.2014",
+      "threads": {
+        "59": "https://arhivach.org/thread/19713/"
+      },
+      "usd": "35.5389"
+    },
+    {
+      "date": "21.04.2014",
+      "threads": {
+        "60": "https://arhivach.org/thread/19920/"
+      },
+      "usd": "35.5389"
+    },
+    {
+      "date": "22.04.2014",
+      "threads": {
+        "61": "https://arhivach.org/thread/19969/"
+      },
+      "usd": "35.6688"
+    },
+    {
+      "date": "24.04.2014",
+      "threads": {
+        "62": "https://arhivach.org/thread/20197/"
+      },
+      "usd": "35.6625"
+    },
+    {
+      "date": "25.04.2014",
+      "threads": {
+        "63": "https://arhivach.org/thread/20320/"
+      },
+      "usd": "35.6830"
+    },
+    {
+      "date": "26.04.2014",
+      "threads": {
+        "64": "https://arhivach.org/thread/20393/"
+      },
+      "usd": "35.9289"
+    },
+    {
+      "date": "28.04.2014",
+      "threads": {
+        "65": "https://arhivach.org/thread/20660/",
+        "66": "https://arhivach.org/thread/20779/"
+      },
+      "usd": "35.9289"
+    },
+    {
+      "date": "29.04.2014",
+      "threads": {
+        "67": "https://arhivach.org/thread/20830/"
+      },
+      "usd": "36.0245"
+    },
+    {
+      "date": "30.04.2014",
+      "threads": {
+        "68": "https://arhivach.org/thread/20908/"
+      },
+      "usd": "35.6983"
+    },
+    {
+      "date": "02.05.2014",
+      "threads": {
+        "69": "https://arhivach.org/thread/21111/"
+      },
+      "usd": "35.7227"
+    },
+    {
+      "date": "03.05.2014",
+      "threads": {
+        "70": "https://arhivach.org/thread/21282/"
+      },
+      "usd": "35.7227"
+    },
+    {
+      "date": "04.05.2014",
+      "threads": {
+        "71": "https://arhivach.org/thread/21431/"
+      },
+      "usd": "35.7227"
+    },
+    {
+      "date": "05.05.2014",
+      "threads": {
+        "72": "https://arhivach.org/thread/21659/",
+        "73": "https://arhivach.org/thread/21745/"
+      },
+      "usd": "35.7227"
+    },
+    {
+      "date": "08.05.2014",
+      "threads": {
+        "74": "https://arhivach.org/thread/21862/"
+      },
+      "usd": "35.4971"
+    },
+    {
+      "date": "10.05.2014",
+      "threads": {
+        "75": "https://arhivach.org/thread/22071/"
+      },
+      "usd": "35.4971"
+    },
+    {
+      "date": "12.05.2014",
+      "threads": {
+        "76": "https://arhivach.org/thread/22211/"
+      },
+      "usd": "35.4971"
+    },
+    {
+      "date": "13.05.2014",
+      "threads": {
+        "77": "https://arhivach.org/thread/22355/"
+      },
+      "usd": "35.2091"
+    },
+    {
+      "date": "15.05.2014",
+      "threads": {
+        "78": "https://arhivach.org/thread/22693/"
+      },
+      "usd": "34.7090"
+    },
+    {
+      "date": "17.05.2014",
+      "threads": {
+        "79": "https://arhivach.org/thread/23117/"
+      },
+      "usd": "34.7794"
+    },
+    {
+      "date": "22.05.2014",
+      "threads": {
+        "80": "https://arhivach.org/thread/23394/"
+      },
+      "usd": "34.5078"
+    },
+    {
+      "date": "23.05.2014",
+      "threads": {
+        "81": "https://arhivach.org/thread/23578/"
+      },
+      "usd": "34.2802"
+    },
+    {
+      "date": "26.05.2014",
+      "threads": {
+        "82": "https://arhivach.org/thread/23871/"
+      },
+      "usd": "34.2802"
+    },
+    {
+      "date": "28.05.2014",
+      "threads": {
+        "83": "https://arhivach.org/thread/24147/"
+      },
+      "usd": "34.2571"
+    },
+    {
+      "date": "05.06.2014",
+      "threads": {
+        "84": "https://arhivach.org/thread/24856/"
+      },
+      "usd": "35.1398"
+    },
+    {
+      "date": "17.07.2014",
+      "threads": {
+        "85": "http://tellmemore.name/arhivach/2ch/po/5288237/obezumevshego_rublya_tred_85",
+        "86": "https://arhivach.org/thread/29178/"
+      },
+      "usd": "34.3853"
+    },
+    {
+      "date": "20.07.2014",
+      "threads": {
+        "87": "https://arhivach.org/thread/29452/"
+      },
+      "usd": "35.1627"
+    },
+    {
+      "date": "23.07.2014",
+      "threads": {
+        "88": "https://arhivach.org/thread/29980/"
+      },
+      "usd": "35.0387"
+    },
+    {
+      "date": "25.07.2014",
+      "threads": {
+        "89": "https://arhivach.org/thread/30101/"
+      },
+      "usd": "35.0786"
+    },
+    {
+      "date": "28.07.2014",
+      "threads": {
+        "90": "https://arhivach.org/thread/30613/"
+      },
+      "usd": "35.3457"
+    },
+    {
+      "date": "01.08.2014",
+      "threads": {
+        "91": "https://arhivach.org/thread/30965/"
+      },
+      "usd": "35.4438"
+    },
+    {
+      "date": "04.08.2014",
+      "threads": {
+        "92": "https://arhivach.org/thread/31341/"
+      },
+      "usd": "35.7272"
+    },
+    {
+      "date": "05.08.2014",
+      "threads": {
+        "93": "https://arhivach.org/thread/31461/"
+      },
+      "usd": "35.6605"
+    },
+    {
+      "date": "06.08.2014",
+      "threads": {
+        "94": "https://arhivach.org/thread/31558/",
+        "95": "https://arhivach.org/thread/31586/"
+      },
+      "usd": "35.7987"
+    },
+    {
+      "date": "07.08.2014",
+      "threads": {
+        "96": "https://arhivach.org/thread/31653/",
+        "97": "https://arhivach.org/thread/31683/",
+        "98": "https://arhivach.org/thread/31747/"
+      },
+      "usd": "36.1102"
+    },
+    {
+      "date": "08.08.2014",
+      "threads": {
+        "99": "https://arhivach.org/thread/31816/",
+        "100": "https://arhivach.org/thread/31922/"
+      },
+      "usd": "36.2496"
+    },
+    {
+      "date": "09.08.2014",
+      "threads": {
+        "101": "https://arhivach.org/thread/31983/"
+      },
+      "usd": "36.4461"
+    },
+    {
+      "date": "10.08.2014",
+      "threads": {
+        "102": "https://arhivach.org/thread/32342/"
+      },
+      "usd": "36.4461"
+    },
+    {
+      "date": "12.08.2014",
+      "threads": {
+        "103": "https://arhivach.org/thread/32343/"
+      },
+      "usd": "36.0475"
+    },
+    {
+      "date": "13.08.2014",
+      "threads": {
+        "104": "https://arhivach.org/thread/32537/"
+      },
+      "usd": "36.0890"
+    },
+    {
+      "date": "14.08.2014",
+      "threads": {
+        "105": "https://arhivach.org/thread/32675/"
+      },
+      "usd": "36.2222"
+    },
+    {
+      "date": "15.08.2014",
+      "threads": {
+        "106": "https://arhivach.org/thread/32757/"
+      },
+      "usd": "36.0395"
+    },
+    {
+      "date": "16.08.2014",
+      "threads": {
+        "107": "https://arhivach.org/thread/33156/"
+      },
+      "usd": "36.0014"
+    },
+    {
+      "date": "19.08.2014",
+      "threads": {
+        "108": "https://arhivach.org/thread/33394/"
+      },
+      "usd": "36.0294"
+    },
+    {
+      "date": "20.08.2014",
+      "threads": {
+        "109": "https://arhivach.org/thread/33684/"
+      },
+      "usd": "36.1094"
+    },
+    {
+      "date": "21.08.2014",
+      "threads": {
+        "110": "https://arhivach.org/thread/33788/"
+      },
+      "usd": "36.2240"
+    },
+    {
+      "date": "22.08.2014",
+      "threads": {
+        "111": "https://arhivach.org/thread/33841/"
+      },
+      "usd": "36.3317"
+    },
+    {
+      "date": "23.08.2014",
+      "threads": {
+        "112": "https://arhivach.org/thread/34126/"
+      },
+      "usd": "36.0027"
+    },
+    {
+      "date": "24.08.2014",
+      "threads": {
+        "113": "https://arhivach.org/thread/34166/"
+      },
+      "usd": "36.0027"
+    },
+    {
+      "date": "25.08.2014",
+      "threads": {
+        "114": "https://arhivach.org/thread/34260/"
+      },
+      "usd": "36.0027"
+    },
+    {
+      "date": "26.08.2014",
+      "threads": {
+        "115": "https://arhivach.org/thread/34423/"
+      },
+      "usd": "36.1201"
+    },
+    {
+      "date": "27.08.2014",
+      "threads": {
+        "116": "https://arhivach.org/thread/34527/",
+        "117": "https://arhivach.org/thread/34614/"
+      },
+      "usd": "36.1358"
+    },
+    {
+      "date": "28.08.2014",
+      "threads": {
+        "118": "https://arhivach.org/thread/34702/"
+      },
+      "usd": "36.1397"
+    },
+    {
+      "date": "29.08.2014",
+      "threads": {
+        "119": "https://arhivach.org/thread/34757/",
+        "120": "https://arhivach.org/thread/34843/",
+        "121": "https://arhivach.org/thread/34845/",
+        "122": "https://arhivach.org/thread/34868/",
+        "123": "https://arhivach.org/thread/34891/"
+      },
+      "usd": "36.3053"
+    },
+    {
+      "date": "30.08.2014",
+      "threads": {
+        "124": "https://arhivach.org/thread/34984/",
+        "125": "https://arhivach.org/thread/35022/"
+      },
+      "usd": "36.9316"
+    },
+    {
+      "date": "31.08.2014",
+      "threads": {
+        "126": "https://arhivach.org/thread/35124/",
+        "127": "https://arhivach.org/thread/35180/"
+      },
+      "usd": "36.9316"
+    },
+    {
+      "date": "01.09.2014",
+      "threads": {
+        "128": "https://arhivach.org/thread/35212/",
+        "129": "https://arhivach.org/thread/35248/",
+        "130": "https://arhivach.org/thread/35263/"
+      },
+      "usd": "36.9316"
+    },
+    {
+      "date": "02.09.2014",
+      "threads": {
+        "131": "https://arhivach.org/thread/35312/",
+        "132": "https://arhivach.org/thread/35337/"
+      },
+      "usd": "37.2945"
+    },
+    {
+      "date": "03.09.2014",
+      "threads": {
+        "133": "https://arhivach.org/thread/35382/",
+        "134": "https://arhivach.org/thread/35472/"
+      },
+      "usd": "37.3480"
+    },
+    {
+      "date": "04.09.2014",
+      "threads": {
+        "135": "https://arhivach.org/thread/35559/",
+        "136": "https://arhivach.org/thread/35616/"
+      },
+      "usd": "37.3183"
+    },
+    {
+      "date": "05.09.2014",
+      "threads": {
+        "137": "https://arhivach.org/thread/35627/",
+        "138": "https://arhivach.org/thread/35718/"
+      },
+      "usd": "36.8038"
+    },
+    {
+      "date": "06.09.2014",
+      "threads": {
+        "139": "https://arhivach.org/thread/35807/",
+        "140": "https://arhivach.org/thread/35811/"
+      },
+      "usd": "36.9219"
+    },
+    {
+      "date": "07.09.2014",
+      "threads": {
+        "141": "https://arhivach.org/thread/35908/"
+      },
+      "usd": "36.9219"
+    },
+    {
+      "date": "08.09.2014",
+      "threads": {
+        "142": "https://arhivach.org/thread/35992/",
+        "143": "https://arhivach.org/thread/36029/"
+      },
+      "usd": "36.9219"
+    },
+    {
+      "date": "09.09.2014",
+      "threads": {
+        "144": "https://arhivach.org/thread/36101/",
+        "145": "https://arhivach.org/thread/36209/"
+      },
+      "usd": "37.0866"
+    },
+    {
+      "date": "10.09.2014",
+      "threads": {
+        "146": "https://arhivach.org/thread/36218/",
+        "147": "https://arhivach.org/thread/36282/"
+      },
+      "usd": "37.0261"
+    },
+    {
+      "date": "11.09.2014",
+      "threads": {
+        "148": "https://arhivach.org/thread/36328/",
+        "149": "https://arhivach.org/thread/36340/",
+        "150": "https://arhivach.org/thread/36378/"
+      },
+      "usd": "37.1693"
+    },
+    {
+      "date": "12.09.2014",
+      "threads": {
+        "151": "https://arhivach.org/thread/36464/",
+        "152": "https://arhivach.org/thread/36474/",
+        "153": "https://arhivach.org/thread/36515/"
+      },
+      "usd": "37.3758"
+    },
+    {
+      "date": "13.09.2014",
+      "threads": {
+        "154": "https://arhivach.org/thread/36529/",
+        "155": "https://arhivach.org/thread/36626/"
+      },
+      "usd": "37.6545"
+    },
+    {
+      "date": "14.09.2014",
+      "threads": {
+        "156": "https://arhivach.org/thread/36664/",
+        "157": "https://arhivach.org/thread/36731/"
+      },
+      "usd": "37.6545"
+    },
+    {
+      "date": "15.09.2014",
+      "threads": {
+        "158": "https://arhivach.org/thread/36841/",
+        "159": "https://arhivach.org/thread/36870/",
+        "160": "https://arhivach.org/thread/36898/",
+        "161": "https://arhivach.org/thread/36916/"
+      },
+      "usd": "37.6545"
+    },
+    {
+      "date": "16.09.2014",
+      "threads": {
+        "162": "https://arhivach.org/thread/36971/",
+        "163": "https://arhivach.org/thread/36976/",
+        "164": "https://arhivach.org/thread/36979/",
+        "165": "https://arhivach.org/thread/36994/",
+        "166": "https://arhivach.org/thread/37024/"
+      },
+      "usd": "37.9861"
+    },
+    {
+      "date": "17.09.2014",
+      "threads": {
+        "167": "https://arhivach.org/thread/37091/",
+        "168": "https://arhivach.org/thread/37105/",
+        "169": "https://arhivach.org/thread/37156/"
+      },
+      "usd": "38.7058"
+    },
+    {
+      "date": "18.09.2014",
+      "threads": {
+        "170": "https://arhivach.org/thread/37251/",
+        "171": "https://arhivach.org/thread/37323/"
+      },
+      "usd": "38.3724"
+    },
+    {
+      "date": "19.09.2014",
+      "threads": {
+        "172": "https://arhivach.org/thread/37391/",
+        "173": "https://arhivach.org/thread/37420/",
+        "174": "https://arhivach.org/thread/37434/",
+        "175": "https://arhivach.org/thread/37493/"
+      },
+      "usd": "38.4209"
+    },
+    {
+      "date": "20.09.2014",
+      "threads": {
+        "176": "https://arhivach.org/thread/37556/",
+        "177": "https://arhivach.org/thread/37654/"
+      },
+      "usd": "38.4134"
+    },
+    {
+      "date": "21.09.2014",
+      "threads": {
+        "178": "https://arhivach.org/thread/37817/"
+      },
+      "usd": "38.4134"
+    },
+    {
+      "date": "22.09.2014",
+      "threads": {
+        "179": "https://arhivach.org/thread/37838/",
+        "180": "https://arhivach.org/thread/37872/",
+        "181": "https://arhivach.org/thread/37913/"
+      },
+      "usd": "38.4134"
+    },
+    {
+      "date": "23.09.2014",
+      "threads": {
+        "182": "https://arhivach.org/thread/37970/",
+        "183": "https://arhivach.org/thread/38015/",
+        "184": "https://arhivach.org/thread/38043/"
+      },
+      "usd": "38.5782"
+    },
+    {
+      "date": "24.09.2014",
+      "threads": {
+        "185": "https://arhivach.org/thread/38124/",
+        "186": "https://arhivach.org/thread/38125/",
+        "187": "https://arhivach.org/thread/38181/"
+      },
+      "usd": "38.6672"
+    },
+    {
+      "date": "25.09.2014",
+      "threads": {
+        "188": "https://arhivach.org/thread/38290/",
+        "189": "https://arhivach.org/thread/38325/"
+      },
+      "usd": "38.3830"
+    },
+    {
+      "date": "26.09.2014",
+      "threads": {
+        "190": "https://arhivach.org/thread/38410/",
+        "191": "https://arhivach.org/thread/38464/",
+        "192": "https://arhivach.org/thread/38488/",
+        "193": "https://arhivach.org/thread/38553/"
+      },
+      "usd": "38.3007"
+    },
+    {
+      "date": "27.09.2014",
+      "threads": {
+        "194": "https://arhivach.org/thread/38609/",
+        "195": "https://arhivach.org/thread/38645/"
+      },
+      "usd": "38.7243"
+    },
+    {
+      "date": "28.09.2014",
+      "threads": {
+        "196": "https://arhivach.org/thread/38780/",
+        "197": "https://arhivach.org/thread/38929/"
+      },
+      "usd": "38.7243"
+    },
+    {
+      "date": "29.09.2014",
+      "threads": {
+        "198": "https://arhivach.org/thread/38957/",
+        "199": "https://arhivach.org/thread/38983/",
+        "200": "https://arhivach.org/thread/39088/"
+      },
+      "usd": "38.7243"
+    },
+    {
+      "date": "30.09.2014",
+      "threads": {
+        "201": "https://arhivach.org/thread/39128/",
+        "202": "https://arhivach.org/thread/39204/",
+        "203": "https://arhivach.org/thread/39205/"
+      },
+      "usd": "39.3866"
+    },
+    {
+      "date": "01.10.2014",
+      "threads": {
+        "204": "https://arhivach.org/thread/39294/",
+        "205": "https://arhivach.org/thread/39299/",
+        "206": "https://arhivach.org/thread/39313/",
+        "207": "https://arhivach.org/thread/39345/"
+      },
+      "usd": "39.3836"
+    },
+    {
+      "date": "02.10.2014",
+      "threads": {
+        "208": "https://arhivach.org/thread/39449/",
+        "209": "https://arhivach.org/thread/39450/",
+        "210": "https://arhivach.org/thread/39471/",
+        "211": "https://arhivach.org/thread/39509/"
+      },
+      "usd": "39.6604"
+    },
+    {
+      "date": "03.10.2014",
+      "threads": {
+        "212": "https://arhivach.org/thread/39565/",
+        "213": "https://arhivach.org/thread/39591/",
+        "214": "https://arhivach.org/thread/39601/",
+        "215": "https://arhivach.org/thread/39616/",
+        "216": "https://arhivach.org/thread/39642/"
+      },
+      "usd": "39.5474"
+    },
+    {
+      "date": "04.10.2014",
+      "threads": {
+        "217": "https://arhivach.org/thread/39684/",
+        "218": "https://arhivach.org/thread/39704/",
+        "219": "https://arhivach.org/thread/39816/",
+        "220": "https://arhivach.org/thread/39840/"
+      },
+      "usd": "39.6980"
+    },
+    {
+      "date": "05.10.2014",
+      "threads": {
+        "221": "https://arhivach.org/thread/39867/"
+      },
+      "usd": "39.6980"
+    },
+    {
+      "date": "06.10.2014",
+      "threads": {
+        "222": "https://arhivach.org/thread/39968/",
+        "223": "https://arhivach.org/thread/40003/",
+        "224": "https://arhivach.org/thread/40134/"
+      },
+      "usd": "39.6980"
+    },
+    {
+      "date": "07.10.2014",
+      "threads": {
+        "225": "https://arhivach.org/thread/40147/",
+        "226": "https://arhivach.org/thread/40195/",
+        "227": "https://arhivach.org/thread/40217/"
+      },
+      "usd": "39.9820"
+    },
+    {
+      "date": "08.10.2014",
+      "threads": {
+        "228": "https://arhivach.org/thread/40279/",
+        "229": "https://arhivach.org/thread/40299/",
+        "230": "https://arhivach.org/thread/40332/",
+        "232": "https://arhivach.org/thread/40351/"
+      },
+      "usd": "39.7417"
+    },
+    {
+      "date": "09.10.2014",
+      "threads": {
+        "231": "https://arhivach.org/thread/40425/",
+        "233": "https://arhivach.org/thread/40425/",
+        "234": "https://arhivach.org/thread/40479/",
+        "235": "https://arhivach.org/thread/40525/"
+      },
+      "usd": "39.9819"
+    },
+    {
+      "date": "10.10.2014",
+      "threads": {
+        "236": "https://arhivach.org/thread/40555/",
+        "237": "https://arhivach.org/thread/40579/",
+        "238": "https://arhivach.org/thread/40584/",
+        "239": "https://arhivach.org/thread/40623/",
+        "240": "https://arhivach.org/thread/40645/"
+      },
+      "usd": "39.9800"
+    },
+    {
+      "date": "11.10.2014",
+      "threads": {
+        "241": "https://arhivach.org/thread/40680/",
+        "242": "https://arhivach.org/thread/40802/"
+      },
+      "usd": "40.2125"
+    },
+    {
+      "date": "12.10.2014",
+      "threads": {
+        "243": "https://arhivach.org/thread/40923/",
+        "244": "https://arhivach.org/thread/40925/"
+      },
+      "usd": "40.2125"
+    },
+    {
+      "date": "13.10.2014",
+      "threads": {
+        "245": "https://arhivach.org/thread/40983/",
+        "246": "https://arhivach.org/thread/41076/",
+        "247": "https://arhivach.org/thread/41119/",
+        "248": "https://arhivach.org/thread/41126/"
+      },
+      "usd": "40.2125"
+    },
+    {
+      "date": "14.10.2014",
+      "threads": {
+        "249": "https://arhivach.org/thread/41213/",
+        "250": "https://arhivach.org/thread/41267/",
+        "251": "https://arhivach.org/thread/41293/",
+        "252": "https://arhivach.org/thread/41324/",
+        "253": "https://arhivach.org/thread/41355/"
+      },
+      "usd": "40.3251"
+    },
+    {
+      "date": "15.10.2014",
+      "threads": {
+        "254": "https://arhivach.org/thread/41405/",
+        "255": "https://arhivach.org/thread/41412/",
+        "256": "https://arhivach.org/thread/41431/",
+        "257": "https://arhivach.org/thread/41439/",
+        "258": "https://arhivach.org/thread/41543/",
+        "259": "https://arhivach.org/thread/41542/"
+      },
+      "usd": "40.5304"
+    },
+    {
+      "date": "16.10.2014",
+      "threads": {
+        "260": "https://arhivach.org/thread/41545/",
+        "261": "https://arhivach.org/thread/41560/",
+        "262": "https://arhivach.org/thread/41576/",
+        "263": "https://arhivach.org/thread/41599/",
+        "264": "https://arhivach.org/thread/41633/"
+      },
+      "usd": "40.9416"
+    },
+    {
+      "date": "17.10.2014",
+      "threads": {
+        "265": "https://arhivach.org/thread/41725/",
+        "266": "https://arhivach.org/thread/41734/",
+        "267": "https://arhivach.org/thread/41759/"
+      },
+      "usd": "40.7457"
+    },
+    {
+      "date": "18.10.2014",
+      "threads": {
+        "268": "https://arhivach.org/thread/41878/",
+        "269": "https://arhivach.org/thread/41976/"
+      },
+      "usd": "41.0450"
+    },
+    {
+      "date": "19.10.2014",
+      "threads": {
+        "270": "https://arhivach.org/thread/42071/"
+      },
+      "usd": "41.0450"
+    },
+    {
+      "date": "20.10.2014",
+      "threads": {
+        "271": "https://arhivach.org/thread/42263/",
+        "272": "https://arhivach.org/thread/42266/",
+        "273": "https://arhivach.org/thread/42300/"
+      },
+      "usd": "41.0450"
+    },
+    {
+      "date": "21.10.2014",
+      "threads": {
+        "274": "https://arhivach.org/thread/42423/",
+        "275": "https://arhivach.org/thread/42469/"
+      },
+      "usd": "40.8815"
+    },
+    {
+      "date": "22.10.2014",
+      "threads": {
+        "276": "https://arhivach.org/thread/42563/",
+        "277": "https://arhivach.org/thread/42648/",
+        "278": "https://arhivach.org/thread/42670/"
+      },
+      "usd": "41.0501"
+    },
+    {
+      "date": "23.10.2014",
+      "threads": {
+        "279": "https://arhivach.org/thread/42757/",
+        "280": "https://arhivach.org/thread/42777/",
+        "281": "https://arhivach.org/thread/42798/",
+        "282": "https://arhivach.org/thread/42843/"
+      },
+      "usd": "40.9671"
+    },
+    {
+      "date": "24.10.2014",
+      "threads": {
+        "283": "https://arhivach.org/thread/42922/",
+        "284": "https://arhivach.org/thread/42943/",
+        "285": "https://arhivach.org/thread/42957/",
+        "286": "https://arhivach.org/thread/42972/",
+        "287": "https://arhivach.org/thread/43011/"
+      },
+      "usd": "41.4958"
+    },
+    {
+      "date": "25.10.2014",
+      "threads": {
+        "288": "https://arhivach.org/thread/43148/"
+      },
+      "usd": "41.8101"
+    },
+    {
+      "date": "26.10.2014",
+      "threads": {
+        "289": "https://arhivach.org/thread/43379/"
+      },
+      "usd": "41.8101"
+    },
+    {
+      "date": "27.10.2014",
+      "threads": {
+        "290": "https://arhivach.org/thread/43504/",
+        "291": "https://arhivach.org/thread/43518/",
+        "292": "https://arhivach.org/thread/43538/",
+        "293": "https://arhivach.org/thread/43587/"
+      },
+      "usd": "41.8101"
+    },
+    {
+      "date": "28.10.2014",
+      "threads": {
+        "294": "https://arhivach.org/thread/43715/",
+        "295": "https://arhivach.org/thread/43716/",
+        "296": "https://arhivach.org/thread/43726/",
+        "297": "https://arhivach.org/thread/43802/",
+        "298": "https://arhivach.org/thread/43803/"
+      },
+      "usd": "41.9497"
+    },
+    {
+      "date": "29.10.2014",
+      "threads": {
+        "299": "https://arhivach.org/thread/43860/",
+        "300": "https://arhivach.org/thread/43877/",
+        "301": "https://arhivach.org/thread/43898/",
+        "302": "https://arhivach.org/thread/43911/",
+        "303": "https://arhivach.org/thread/43943/",
+        "304": "https://arhivach.org/thread/43955/"
+      },
+      "usd": "42.3934"
+    },
+    {
+      "date": "30.10.2014",
+      "threads": {
+        "305": "https://arhivach.org/thread/43968/",
+        "306": "https://arhivach.org/thread/43996/",
+        "307": "https://arhivach.org/thread/43998/",
+        "308": "https://arhivach.org/thread/44009/",
+        "309": "https://arhivach.org/thread/44013/",
+        "310": "https://arhivach.org/thread/44027/",
+        "311": "https://arhivach.org/thread/44038/",
+        "312": "https://arhivach.org/thread/44085/",
+        "313": "https://arhivach.org/thread/44086/"
+      },
+      "usd": "42.6525"
+    },
+    {
+      "date": "31.10.2014",
+      "threads": {
+        "314": "https://arhivach.org/thread/44134/",
+        "315": "https://arhivach.org/thread/44171/",
+        "316": "https://arhivach.org/thread/44180/",
+        "317": "https://arhivach.org/thread/44196/",
+        "318": "https://arhivach.org/thread/44217/",
+        "319": "https://arhivach.org/thread/44221/",
+        "320": "https://arhivach.org/thread/44234/",
+        "321": "https://arhivach.org/thread/44310/"
+      },
+      "usd": "43.3943"
+    },
+    {
+      "date": "01.11.2014",
+      "threads": {
+        "322": "https://arhivach.org/thread/44318/",
+        "323": "https://arhivach.org/thread/44362/",
+        "324": "https://arhivach.org/thread/44390/",
+        "325": "https://arhivach.org/thread/44421/"
+      },
+      "usd": "41.9627"
+    },
+    {
+      "date": "02.11.2014",
+      "threads": {
+        "326": "https://arhivach.org/thread/44468/",
+        "327": "https://arhivach.org/thread/44520/",
+        "328": "https://arhivach.org/thread/44561/",
+        "329": "https://arhivach.org/thread/44598/"
+      },
+      "usd": "41.9627"
+    },
+    {
+      "date": "03.11.2014",
+      "threads": {
+        "330": "https://arhivach.org/thread/44709/",
+        "331": "https://arhivach.org/thread/44709/",
+        "332": "https://arhivach.org/thread/44730/",
+        "333": "https://arhivach.org/thread/44746/",
+        "334": "https://arhivach.org/thread/44766/",
+        "335": "https://arhivach.org/thread/44792/"
+      },
+      "usd": "41.9627"
+    },
+    {
+      "date": "04.11.2014",
+      "threads": {
+        "336": "https://arhivach.org/thread/44842/",
+        "337": "https://arhivach.org/thread/44857/",
+        "338": "https://arhivach.org/thread/44881/",
+        "339": "https://arhivach.org/thread/44893/",
+        "340": "https://arhivach.org/thread/44922/"
+      },
+      "usd": "41.9627"
+    },
+    {
+      "date": "05.11.2014",
+      "threads": {
+        "341": "https://arhivach.org/thread/44957/",
+        "342": "https://arhivach.org/thread/45017/",
+        "343": "https://arhivach.org/thread/45024/",
+        "344": "https://arhivach.org/thread/45032/",
+        "345": "https://arhivach.org/thread/45040/",
+        "346": "https://arhivach.org/thread/45050/",
+        "347": "https://arhivach.org/thread/45067/",
+        "348": "https://arhivach.org/thread/45079/",
+        "349": "https://arhivach.org/thread/45116/"
+      },
+      "usd": "41.9627"
+    },
+    {
+      "date": "06.11.2014",
+      "threads": {
+        "350": "https://arhivach.org/thread/45171/",
+        "351": "https://arhivach.org/thread/45193/",
+        "351.2": "https://arhivach.org/thread/45225/",
+        "352": "https://arhivach.org/thread/45208/",
+        "353": "https://arhivach.org/thread/45215/",
+        "354": "https://arhivach.org/thread/45226/",
+        "355": "https://arhivach.org/thread/45232/",
+        "356": "https://arhivach.org/thread/45246/",
+        "357": "https://arhivach.org/thread/45273/",
+        "358": "https://arhivach.org/thread/45310/"
+      },
+      "usd": "44.3993"
+    },
+    {
+      "date": "07.11.2014",
+      "threads": {
+        "359": "https://arhivach.org/thread/45372/",
+        "360": "https://arhivach.org/thread/45375/",
+        "361": "https://arhivach.org/thread/45383/",
+        "362": "https://arhivach.org/thread/45404/",
+        "363": "https://arhivach.org/thread/45405/",
+        "364": "https://arhivach.org/thread/45441/",
+        "365": "https://arhivach.org/thread/45486/"
+      },
+      "usd": "45.1854"
+    },
+    {
+      "date": "08.11.2014",
+      "threads": {
+        "366": "https://arhivach.org/thread/45527/",
+        "367": "https://arhivach.org/thread/45585/",
+        "368": "https://arhivach.org/thread/45616/"
+      },
+      "usd": "47.8774"
+    },
+    {
+      "date": "09.11.2014",
+      "threads": {
+        "369": "https://arhivach.org/thread/45716/",
+        "370": "https://arhivach.org/thread/45756/",
+        "371": "https://arhivach.org/thread/45796/"
+      },
+      "usd": "47.8774"
+    },
+    {
+      "date": "10.11.2014",
+      "threads": {
+        "372": "https://arhivach.org/thread/45868/",
+        "373": "https://arhivach.org/thread/45870/",
+        "374": "https://arhivach.org/thread/45885/",
+        "375": "https://arhivach.org/thread/45888/",
+        "377": "https://arhivach.org/thread/45923/",
+        "378": "https://arhivach.org/thread/45978/"
+      },
+      "usd": "47.8774"
+    },
+    {
+      "date": "11.11.2014",
+      "threads": {
+        "379": "https://arhivach.org/thread/46034/",
+        "380": "https://arhivach.org/thread/46081/",
+        "381": "https://arhivach.org/thread/46110/",
+        "382": "https://arhivach.org/thread/46128/",
+        "383": "https://arhivach.org/thread/46153/"
+      },
+      "usd": "45.8926"
+    },
+    {
+      "date": "12.11.2014",
+      "threads": {
+        "384": "https://arhivach.org/thread/46182/",
+        "385": "https://arhivach.org/thread/46231/",
+        "386": "https://arhivach.org/thread/46251/",
+        "387": "https://arhivach.org/thread/46284/",
+        "388": "https://arhivach.org/thread/46418/"
+      },
+      "usd": "45.9520"
+    },
+    {
+      "date": "13.11.2014",
+      "threads": {
+        "389": "https://arhivach.org/thread/46450/",
+        "390": "https://arhivach.org/thread/46464/",
+        "391": "https://arhivach.org/thread/46489/",
+        "392": "https://arhivach.org/thread/46496/",
+        "393": "https://arhivach.org/thread/46529/"
+      },
+      "usd": "46.3379"
+    },
+    {
+      "date": "14.11.2014",
+      "threads": {
+        "394": "https://arhivach.org/thread/46581/",
+        "395": "https://arhivach.org/thread/46611/",
+        "396": "https://arhivach.org/thread/46617/",
+        "397": "https://arhivach.org/thread/46638/"
+      },
+      "usd": "46.1233"
+    },
+    {
+      "date": "15.11.2014",
+      "threads": {
+        "398": "https://arhivach.org/thread/46721/",
+        "399": "https://arhivach.org/thread/46792/",
+        "400": "https://arhivach.org/thread/46883/"
+      },
+      "usd": "47.3920"
+    },
+    {
+      "date": "16.11.2014",
+      "threads": {
+        "401": "https://arhivach.org/thread/47001/",
+        "402": "https://arhivach.org/thread/47066/"
+      },
+      "usd": "47.3920"
+    },
+    {
+      "date": "17.11.2014",
+      "threads": {
+        "403": "https://arhivach.org/thread/47067/",
+        "404": "https://arhivach.org/thread/47122/",
+        "405": "https://arhivach.org/thread/47161/",
+        "406": "https://arhivach.org/thread/47282/"
+      },
+      "usd": "47.3920"
+    },
+    {
+      "date": "18.11.2014",
+      "threads": {
+        "407": "https://arhivach.org/thread/47283/",
+        "408": "https://arhivach.org/thread/47308/"
+      },
+      "usd": "47.3329"
+    },
+    {
+      "date": "19.11.2014",
+      "threads": {
+        "409": "https://arhivach.org/thread/47444/",
+        "410": "https://arhivach.org/thread/47445/"
+      },
+      "usd": "46.9797"
+    },
+    {
+      "date": "20.11.2014",
+      "threads": {
+        "411": "https://arhivach.org/thread/47636/",
+        "412": "https://arhivach.org/thread/47687/"
+      },
+      "usd": "47.0294"
+    },
+    {
+      "date": "21.11.2014",
+      "threads": {
+        "413": "https://arhivach.org/thread/47828/",
+        "414": "https://arhivach.org/thread/47850/"
+      },
+      "usd": "46.7047"
+    },
+    {
+      "date": "22.11.2014",
+      "threads": {
+        "415": "https://arhivach.org/thread/48064/"
+      },
+      "usd": "45.7926"
+    },
+    {
+      "date": "24.11.2014",
+      "threads": {
+        "416": "https://arhivach.org/thread/48302/",
+        "417": "https://arhivach.org/thread/48365/",
+        "418": "https://arhivach.org/thread/48481/"
+      },
+      "usd": "45.7926"
+    },
+    {
+      "date": "25.11.2014",
+      "threads": {
+        "419": "https://arhivach.org/thread/48539/",
+        "420": "https://arhivach.org/thread/48544/",
+        "421": "https://arhivach.org/thread/48600/"
+      },
+      "usd": "44.7852"
+    },
+    {
+      "date": "26.11.2014",
+      "threads": {
+        "422": "https://arhivach.org/thread/48670/",
+        "423": "https://arhivach.org/thread/48718/",
+        "424": "https://arhivach.org/thread/48753/",
+        "425": "https://arhivach.org/thread/48811/"
+      },
+      "usd": "44.9758"
+    },
+    {
+      "date": "27.11.2014",
+      "threads": {
+        "426": "https://arhivach.org/thread/48873/",
+        "427": "https://arhivach.org/thread/48882/",
+        "428": "https://arhivach.org/thread/48895/",
+        "430": "https://arhivach.org/thread/48932/",
+        "431": "https://arhivach.org/thread/48933/",
+        "432": "https://arhivach.org/thread/48943/",
+        "433": "https://arhivach.org/thread/48973/"
+      },
+      "usd": "46.4244"
+    },
+    {
+      "date": "28.11.2014",
+      "threads": {
+        "434": "https://arhivach.org/thread/48994/",
+        "435": "https://arhivach.org/thread/49019/",
+        "436": "https://arhivach.org/thread/49042/",
+        "437": "https://arhivach.org/thread/49052/",
+        "438": "https://arhivach.org/thread/49065/",
+        "439": "https://arhivach.org/thread/49085/",
+        "440": "https://arhivach.org/thread/49098/",
+        "441": "https://arhivach.org/thread/49136/",
+        "442": "https://arhivach.org/thread/49132/",
+        "443": "https://arhivach.org/thread/49135/"
+      },
+      "usd": "47.6629"
+    },
+    {
+      "date": "29.11.2014",
+      "threads": {
+        "444": "https://arhivach.org/thread/49159/",
+        "445": "https://arhivach.org/thread/49186/",
+        "446": "https://arhivach.org/thread/49245/",
+        "447": "https://arhivach.org/thread/49246/",
+        "448": "https://arhivach.org/thread/49308/"
+      },
+      "usd": "49.3220"
+    },
+    {
+      "date": "30.11.2014",
+      "threads": {
+        "449": "https://arhivach.org/thread/49476/",
+        "450": "https://arhivach.org/thread/49502/",
+        "451": "https://arhivach.org/thread/49581/",
+        "452": "https://arhivach.org/thread/49584/"
+      },
+      "usd": "49.3220"
+    },
+    {
+      "date": "01.12.2014",
+      "threads": {
+        "458": "https://arhivach.org/thread/49645/",
+        "459": "https://arhivach.org/thread/49650/",
+        "460": "https://arhivach.org/thread/49661/",
+        "461": "https://arhivach.org/thread/49695/",
+        "462": "https://arhivach.org/thread/49716/"
+      },
+      "usd": "49.3220"
+    },
+    {
+      "date": "03.12.2014",
+      "threads": {
+        "469": "https://arhivach.org/thread/49891/",
+        "474": "https://arhivach.org/thread/49952/"
+      },
+      "usd": "50.7678"
+    },
+    {
+      "date": "04.12.2014",
+      "threads": {
+        "479": "https://arhivach.org/thread/50041/",
+        "480": "https://arhivach.org/thread/50062/",
+        "481": "https://arhivach.org/thread/50077/",
+        "482": "https://arhivach.org/thread/50102/",
+        "483": "https://arhivach.org/thread/50135/",
+        "484": "https://arhivach.org/thread/50155/",
+        "485": "https://arhivach.org/thread/50157/"
+      },
+      "usd": "54.3821"
+    },
+    {
+      "date": "05.12.2014",
+      "threads": {
+        "486": "https://arhivach.org/thread/50189/",
+        "487": "https://arhivach.org/thread/50234/",
+        "488": "https://arhivach.org/thread/50239/",
+        "489": "https://arhivach.org/thread/50274/",
+        "490": "https://arhivach.org/thread/50278/"
+      },
+      "usd": "52.6932"
+    },
+    {
+      "date": "06.12.2014",
+      "threads": {
+        "491": "https://arhivach.org/thread/50331/",
+        "492": "https://arhivach.org/thread/50385/",
+        "493": "https://arhivach.org/thread/50394/",
+        "494": "https://arhivach.org/thread/50521/"
+      },
+      "usd": "53.1088"
+    },
+    {
+      "date": "07.12.2014",
+      "threads": {
+        "495": "https://arhivach.org/thread/50520/",
+        "496": "https://arhivach.org/thread/50531/",
+        "497": "https://arhivach.org/thread/50543/",
+        "498": "https://arhivach.org/thread/50581/",
+        "499": "https://arhivach.org/thread/50681/"
+      },
+      "usd": "53.1088"
+    },
+    {
+      "date": "08.12.2014",
+      "threads": {
+        "500": "https://arhivach.org/thread/50657/",
+        "501": "https://arhivach.org/thread/50682/",
+        "502": "https://arhivach.org/thread/50691/",
+        "503": "https://arhivach.org/thread/50719/",
+        "504": "https://arhivach.org/thread/50766/",
+        "505": "https://arhivach.org/thread/50802/"
+      },
+      "usd": "54.3821"
+    },
+    {
+      "date": "09.12.2014",
+      "threads": {
+        "506": "https://arhivach.org/thread/50838/",
+        "507": "https://arhivach.org/thread/50859/",
+        "508": "https://arhivach.org/thread/50862/",
+        "509": "https://arhivach.org/thread/50880/",
+        "510": "https://arhivach.org/thread/50945/",
+        "511": "https://arhivach.org/thread/50977/"
+      },
+      "usd": "53.3079"
+    },
+    {
+      "date": "10.12.2014",
+      "threads": {
+        "512": "https://arhivach.org/thread/51038/",
+        "513": "https://arhivach.org/thread/51039/",
+        "514": "https://arhivach.org/thread/51076/",
+        "515": "https://arhivach.org/thread/51077/",
+        "516": "https://arhivach.org/thread/51133/"
+      },
+      "usd": "54.2116"
+    },
+    {
+      "date": "11.12.2014",
+      "threads": {
+        "517": "https://arhivach.org/thread/51168/",
+        "518": "https://arhivach.org/thread/51174/",
+        "519": "https://arhivach.org/thread/51200/",
+        "520": "https://arhivach.org/thread/51208/",
+        "521": "https://arhivach.org/thread/51242/",
+        "522": "https://arhivach.org/thread/51243/",
+        "523": "https://arhivach.org/thread/51259/",
+        "524": "https://arhivach.org/thread/51301/"
+      },
+      "usd": "54.2758"
+    },
+    {
+      "date": "12.12.2014",
+      "threads": {
+        "525": "https://arhivach.org/thread/51326/",
+        "526": "https://arhivach.org/thread/51335/",
+        "527": "https://arhivach.org/thread/51350/",
+        "528": "https://arhivach.org/thread/51351/",
+        "529": "https://arhivach.org/thread/51439/",
+        "530": "https://arhivach.org/thread/51430/",
+        "531": "https://arhivach.org/thread/51429/",
+        "532": "https://arhivach.org/thread/51440/"
+      },
+      "usd": "54.7932"
+    },
+    {
+      "date": "13.12.2014",
+      "threads": {
+        "533": "https://arhivach.org/thread/51480/",
+        "534": "https://arhivach.org/thread/51525/",
+        "535": "https://arhivach.org/thread/51574/",
+        "536": "https://arhivach.org/thread/51576/",
+        "537": "https://arhivach.org/thread/51578/"
+      },
+      "usd": "56.8919"
+    },
+    {
+      "date": "14.12.2014",
+      "threads": {
+        "538": "https://arhivach.org/thread/51633/",
+        "539": "https://arhivach.org/thread/51692/",
+        "540": "https://arhivach.org/thread/51693/",
+        "541": "https://arhivach.org/thread/51717/",
+        "542": "https://arhivach.org/thread/51727/"
+      },
+      "usd": "56.8919"
+    },
+    {
+      "date": "15.12.2014",
+      "threads": {
+        "543": "https://arhivach.org/thread/51794/",
+        "544": "https://arhivach.org/thread/51861/",
+        "545": "https://arhivach.org/thread/51869/",
+        "546": "https://arhivach.org/thread/51881/",
+        "547": "https://arhivach.org/thread/51895/",
+        "548": "https://arhivach.org/thread/51898/",
+        "549": "https://arhivach.org/thread/51906/",
+        "550": "https://arhivach.org/thread/51919/",
+        "551": "https://arhivach.org/thread/51928/",
+        "552": "https://arhivach.org/thread/51969/",
+        "553": "https://arhivach.org/thread/51996/"
+      },
+      "usd": "56.8919"
+    },
+    {
+      "date": "16.12.2014",
+      "threads": {
+        "554": "https://arhivach.org/thread/52032/",
+        "555": "https://arhivach.org/thread/52053/",
+        "556": "https://arhivach.org/thread/52069/",
+        "557": "https://arhivach.org/thread/52081/",
+        "558": "https://arhivach.org/thread/52085/",
+        "559": "https://arhivach.org/thread/52089/",
+        "560": "https://arhivach.org/thread/52096/",
+        "561": "https://arhivach.org/thread/52120/",
+        "562": "https://arhivach.org/thread/52133/",
+        "563": "https://arhivach.org/thread/52179/"
+      },
+      "usd": "58.3461"
+    },
+    {
+      "date": "17.12.2014",
+      "threads": {
+        "564": "https://arhivach.org/thread/52224/",
+        "565": "https://arhivach.org/thread/52276/",
+        "566": "https://arhivach.org/thread/52288/",
+        "567": "https://arhivach.org/thread/52333/",
+        "568": "https://arhivach.org/thread/52350/",
+        "569": "https://arhivach.org/thread/52370/"
+      },
+      "usd": "61.1512"
+    },
+    {
+      "date": "18.12.2014",
+      "threads": {
+        "570": "https://arhivach.org/thread/52407/",
+        "571": "https://arhivach.org/thread/52433/",
+        "572": "https://arhivach.org/thread/52525/",
+        "573": "https://arhivach.org/thread/52527/"
+      },
+      "usd": "67.7851"
+    },
+    {
+      "date": "19.12.2014",
+      "threads": {
+        "574": "https://arhivach.org/thread/52543/",
+        "574.2": "https://arhivach.org/thread/52603/",
+        "575": "https://arhivach.org/thread/52568/",
+        "576": "https://arhivach.org/thread/52628/",
+        "577": "https://arhivach.org/thread/52673/",
+        "577": "https://arhivach.org/thread/52629/"
+      },
+      "usd": "59.6029"
+    },
+    {
+      "date": "20.12.2014",
+      "threads": {
+        "578": "https://arhivach.org/thread/52689/",
+        "579": "https://arhivach.org/thread/52712/",
+        "580": "https://arhivach.org/thread/52788/"
+      },
+      "usd": "60.6825"
+    },
+    {
+      "date": "21.12.2014",
+      "threads": {
+        "581": "https://arhivach.org/thread/52926/",
+        "582": "https://arhivach.org/thread/52949/",
+        "583": "https://arhivach.org/thread/52963/"
+      },
+      "usd": "60.6825"
+    },
+    {
+      "date": "22.12.2014",
+      "threads": {
+        "584": "https://arhivach.org/thread/53031/",
+        "585": "https://arhivach.org/thread/53084/",
+        "586": "https://arhivach.org/thread/53116/",
+        "587": "https://arhivach.org/thread/53123/",
+        "588": "https://arhivach.org/thread/53138/"
+      },
+      "usd": "54.2116"
+    },
+    {
+      "date": "23.12.2014",
+      "threads": {
+        "589": "https://arhivach.org/thread/53261/",
+        "590": "https://arhivach.org/thread/53269/",
+        "591": "https://arhivach.org/thread/53324/",
+        "592": "https://arhivach.org/thread/53399/"
+      },
+      "usd": "56.4940"
+    },
+    {
+      "date": "24.12.2014",
+      "threads": {
+        "593": "https://arhivach.org/thread/53448/",
+        "594": "https://arhivach.org/thread/53517/",
+        "595": "https://arhivach.org/thread/53607/"
+      },
+      "usd": "54.5687"
+    },
+    {
+      "date": "25.12.2014",
+      "threads": {
+        "596": "https://arhivach.org/thread/53610/",
+        "597": "https://arhivach.org/thread/53636/",
+        "598": "https://arhivach.org/thread/53667/",
+        "599": "https://arhivach.org/thread/53767/"
+      },
+      "usd": "54.4913"
+    },
+    {
+      "date": "26.12.2014",
+      "threads": {
+        "600": "https://arhivach.org/thread/53794/",
+        "601": "https://arhivach.org/thread/53827/",
+        "602": "https://arhivach.org/thread/53828/",
+        "603": "https://arhivach.org/thread/53951/"
+      },
+      "usd": "52.6159"
+    },
+    {
+      "date": "27.12.2014",
+      "threads": {
+        "605": "https://arhivach.org/thread/53999/",
+        "606": "https://arhivach.org/thread/54044/",
+        "607": "https://arhivach.org/thread/54048/"
+      },
+      "usd": "52.0343"
+    },
+    {
+      "date": "29.12.2014",
+      "threads": {
+        "608": "https://arhivach.org/thread/54331/",
+        "609": "https://arhivach.org/thread/54354/",
+        "610": "https://arhivach.org/thread/54383/",
+        "611": "https://arhivach.org/thread/54384/",
+        "612": "https://arhivach.org/thread/54498/",
+        "613": "https://arhivach.org/thread/54498/"
+      },
+      "usd": "52.0343"
+    },
+    {
+      "date": "30.12.2014",
+      "threads": {
+        "614": "https://arhivach.org/thread/54514/",
+        "615": "https://arhivach.org/thread/54643/",
+        "616": "https://arhivach.org/thread/54743/"
+      },
+      "usd": "56.6801"
+    },
+    {
+      "date": "31.12.2014",
+      "threads": {
+        "617": "https://arhivach.org/thread/54751/",
+        "618": "https://arhivach.org/thread/54820/",
+        "619": "https://arhivach.org/thread/54863/"
+      },
+      "usd": "56.2584"
+    },
+    {
+      "date": "01.01.2015",
+      "threads": {
+        "620": "https://arhivach.org/thread/54910/",
+        "621": "https://arhivach.org/thread/55054/"
+      },
+      "usd": "56.2376"
+    },
+    {
+      "date": "02.01.2015",
+      "threads": {
+        "622": "https://arhivach.org/thread/55055/",
+        "623": "https://arhivach.org/thread/55255/"
+      },
+      "usd": "56.2376"
+    },
+    {
+      "date": "03.01.2015",
+      "threads": {
+        "624": "https://arhivach.org/thread/55326/",
+        "625": "https://arhivach.org/thread/55445/"
+      },
+      "usd": "56.2376"
+    },
+    {
+      "date": "04.01.2015",
+      "threads": {
+        "626": "https://arhivach.org/thread/55501/",
+        "627": "https://arhivach.org/thread/55546/"
+      },
+      "usd": "56.2376"
+    },
+    {
+      "date": "05.01.2015",
+      "threads": {
+        "628": "https://arhivach.org/thread/55645/",
+        "629": "https://arhivach.org/thread/55668/",
+        "630": "https://arhivach.org/thread/55694/",
+        "631": "https://arhivach.org/thread/55725/",
+        "632": "https://arhivach.org/thread/55726/",
+        "633": "https://arhivach.org/thread/55792/",
+        "634": "https://arhivach.org/thread/55871/"
+      },
+      "usd": "56.2376"
+    },
+    {
+      "date": "06.01.2015",
+      "threads": {
+        "635": "https://arhivach.org/thread/55870/",
+        "636": "https://arhivach.org/thread/55885/",
+        "637": "https://arhivach.org/thread/55921/",
+        "638": "https://arhivach.org/thread/55949/",
+        "639": "https://arhivach.org/thread/55996/",
+        "640": "https://arhivach.org/thread/55997/"
+      },
+      "usd": "56.2376"
+    },
+    {
+      "date": "07.01.2015",
+      "threads": {
+        "641": "https://arhivach.org/thread/56116/",
+        "642": "https://arhivach.org/thread/56158/",
+        "643": "https://arhivach.org/thread/56174/",
+        "644": "https://arhivach.org/thread/56223/",
+        "645": "https://arhivach.org/thread/56259/",
+        "646": "https://arhivach.org/thread/56369/"
+      },
+      "usd": "56.2376"
+    },
+    {
+      "date": "08.01.2015",
+      "threads": {
+        "647": "https://arhivach.org/thread/56389/",
+        "648": "https://arhivach.org/thread/56443/",
+        "649": "https://arhivach.org/thread/56496/"
+      },
+      "usd": "56.2376"
+    },
+    {
+      "date": "09.01.2015",
+      "threads": {
+        "650": "https://arhivach.org/thread/56588/",
+        "651": "https://arhivach.org/thread/56625/",
+        "652": "https://arhivach.org/thread/56722/",
+        "653": "https://arhivach.org/thread/56731/"
+      },
+      "usd": "56.2376"
+    },
+    {
+      "date": "10.01.2015",
+      "threads": {
+        "654": "https://arhivach.org/thread/56888/",
+        "655": "https://arhivach.org/thread/56923/",
+        "656": "https://arhivach.org/thread/57080/"
+      },
+      "usd": "56.2376"
+    },
+    {
+      "date": "11.01.2015",
+      "threads": {
+        "657": "https://arhivach.org/thread/57122/",
+        "658": "https://arhivach.org/thread/57158/"
+      },
+      "usd": "56.2376"
+    },
+    {
+      "date": "12.01.2015",
+      "threads": {
+        "659": "https://arhivach.org/thread/57268/",
+        "660": "https://arhivach.org/thread/57278/",
+        "661": "https://arhivach.org/thread/57312/",
+        "662": "https://arhivach.org/thread/57332/",
+        "663": "https://arhivach.org/thread/57333/",
+        "664": "https://arhivach.org/thread/57485/"
+      },
+      "usd": "56.2376"
+    },
+    {
+      "date": "13.01.2015",
+      "threads": {
+        "665": "https://arhivach.org/thread/57498/",
+        "666": "https://arhivach.org/thread/57502/",
+        "667": "https://arhivach.org/thread/57561/",
+        "668": "https://arhivach.org/thread/57584/",
+        "669": "https://arhivach.org/thread/57671/"
+      },
+      "usd": "62.7363"
+    },
+    {
+      "date": "14.01.2015",
+      "threads": {
+        "670": "https://arhivach.org/thread/57758/",
+        "671": "https://arhivach.org/thread/57759/",
+        "672": "https://arhivach.org/thread/57760/",
+        "673": "https://arhivach.org/thread/57897/"
+      },
+      "usd": "64.8425"
+    },
+    {
+      "date": "15.01.2015",
+      "threads": {
+        "674": "https://arhivach.org/thread/57926/",
+        "675": "https://arhivach.org/thread/57989/",
+        "676": "https://arhivach.org/thread/57985/"
+      },
+      "usd": "66.0983"
+    },
+    {
+      "date": "16.01.2015",
+      "threads": {
+        "677": "https://arhivach.org/thread/58098/",
+        "678": "https://arhivach.org/thread/58099/",
+        "679": "https://arhivach.org/thread/58119/",
+        "680": "https://arhivach.org/thread/58209/"
+      },
+      "usd": "64.8337"
+    },
+    {
+      "date": "17.01.2015",
+      "threads": {
+        "681": "https://arhivach.org/thread/58257/",
+        "682": "https://arhivach.org/thread/58303/",
+        "683": "https://arhivach.org/thread/58384/",
+        "684": "https://arhivach.org/thread/58473/"
+      },
+      "usd": "65.1738"
+    },
+    {
+      "date": "18.01.2015",
+      "threads": {
+        "685": "https://arhivach.org/thread/58503/",
+        "686": "https://arhivach.org/thread/58600/",
+        "687": "https://arhivach.org/thread/58663/",
+        "688": "https://arhivach.org/thread/58746/"
+      },
+      "usd": "65.1738"
+    },
+    {
+      "date": "19.01.2015",
+      "threads": {
+        "689": "https://arhivach.org/thread/58777/",
+        "690": "https://arhivach.org/thread/58835/",
+        "691": "https://arhivach.org/thread/58884/",
+        "692": "https://arhivach.org/thread/58885/"
+      },
+      "usd": "65.1738"
+    },
+    {
+      "date": "20.01.2015",
+      "threads": {
+        "693": "https://arhivach.org/thread/58972/",
+        "694": "https://arhivach.org/thread/59013/",
+        "695": "https://arhivach.org/thread/59054/",
+        "696": "https://arhivach.org/thread/59105/"
+      },
+      "usd": "64.9732"
+    },
+    {
+      "date": "21.01.2015",
+      "threads": {
+        "697": "https://arhivach.org/thread/59155/",
+        "698": "https://arhivach.org/thread/59178/",
+        "699": "https://arhivach.org/thread/59232/",
+        "700": "https://arhivach.org/thread/59236/",
+        "701": "https://arhivach.org/thread/59318/"
+      },
+      "usd": "64.9862"
+    },
+    {
+      "date": "22.01.2015",
+      "threads": {
+        "702": "https://arhivach.org/thread/59347/",
+        "703": "https://arhivach.org/thread/59376/",
+        "704": "https://arhivach.org/thread/59439/",
+        "705": "https://arhivach.org/thread/59477/",
+        "706": "https://arhivach.org/thread/59572/"
+      },
+      "usd": "65.5558"
+    },
+    {
+      "date": "23.01.2015",
+      "threads": {
+        "707": "https://arhivach.org/thread/59591/",
+        "708": "https://arhivach.org/thread/59618/",
+        "709": "https://arhivach.org/thread/59648/",
+        "710": "https://arhivach.org/thread/59672/"
+      },
+      "usd": "65.4000"
+    },
+    {
+      "date": "24.01.2015",
+      "threads": {
+        "711": "https://arhivach.org/thread/59762/",
+        "712": "https://arhivach.org/thread/59804/",
+        "713": "https://arhivach.org/thread/59831/",
+        "714": "https://arhivach.org/thread/59868/",
+        "715": "https://arhivach.org/thread/59884/",
+        "716": "https://arhivach.org/thread/59907/"
+      },
+      "usd": "63.3930"
+    },
+    {
+      "date": "25.01.2015",
+      "threads": {
+        "717": "https://arhivach.org/thread/59988/",
+        "718": "https://arhivach.org/thread/60027/",
+        "719": "https://arhivach.org/thread/60042/",
+        "720": "https://arhivach.org/thread/60087/",
+        "721": "https://arhivach.org/thread/60139/",
+        "722": "https://arhivach.org/thread/60140/"
+      },
+      "usd": "63.3930"
+    },
+    {
+      "date": "26.01.2015",
+      "threads": {
+        "723": "https://arhivach.org/thread/60215/",
+        "724": "https://arhivach.org/thread/60227/",
+        "725": "https://arhivach.org/thread/60228/",
+        "726": "https://arhivach.org/thread/60261/",
+        "727": "https://arhivach.org/thread/60287/",
+        "728": "https://arhivach.org/thread/60287/",
+        "729": "https://arhivach.org/thread/60355/",
+        "730": "https://arhivach.org/thread/60359/"
+      },
+      "usd": "63.3930"
+    },
+    {
+      "date": "27.01.2015",
+      "threads": {
+        "731": "https://arhivach.org/thread/60391/",
+        "732": "https://arhivach.org/thread/60421/",
+        "733": "https://arhivach.org/thread/60441/",
+        "734": "https://arhivach.org/thread/60454/",
+        "735": "https://arhivach.org/thread/60512/",
+        "736": "https://arhivach.org/thread/60570/",
+        "737": "https://arhivach.org/thread/60663/"
+      },
+      "usd": "65.5937"
+    },
+    {
+      "date": "28.01.2015",
+      "threads": {
+        "738": "https://arhivach.org/thread/60670/",
+        "739": "https://arhivach.org/thread/60709/",
+        "740": "https://arhivach.org/thread/60713/",
+        "741": "https://arhivach.org/thread/60755/",
+        "742": "https://arhivach.org/thread/60801/",
+        "743": "https://arhivach.org/thread/60802/"
+      },
+      "usd": "67.8153"
+    },
+    {
+      "date": "29.01.2015",
+      "threads": {
+        "744": "https://arhivach.org/thread/60904/",
+        "745": "https://arhivach.org/thread/60920/",
+        "746": "https://arhivach.org/thread/60937/",
+        "747": "https://arhivach.org/thread/60982/",
+        "748": "https://arhivach.org/thread/61000/"
+      },
+      "usd": "67.1506"
+    },
+    {
+      "date": "30.01.2015",
+      "threads": {
+        "750": "https://arhivach.org/thread/61061/",
+        "751": "https://arhivach.org/thread/61109/",
+        "752": "https://arhivach.org/thread/61121/",
+        "753": "https://arhivach.org/thread/61143/",
+        "754": "https://arhivach.org/thread/61159/",
+        "755": "https://arhivach.org/thread/61183/",
+        "756": "https://arhivach.org/thread/61216/",
+        "757": "https://arhivach.org/thread/61245/"
+      },
+      "usd": "68.7303"
+    },
+    {
+      "date": "31.01.2015",
+      "threads": {
+        "758": "https://arhivach.org/thread/61302/",
+        "759": "https://arhivach.org/thread/61324/",
+        "760": "https://arhivach.org/thread/61398/",
+        "761": "https://arhivach.org/thread/61493/"
+      },
+      "usd": "68.9291"
+    },
+    {
+      "date": "01.02.2015",
+      "threads": {
+        "762": "https://arhivach.org/thread/61494/",
+        "763": "https://arhivach.org/thread/61567/",
+        "764": "https://arhivach.org/thread/61616/",
+        "765": "https://arhivach.org/thread/61646/"
+      },
+      "usd": "68.9291"
+    },
+    {
+      "date": "02.02.2015",
+      "threads": {
+        "766": "https://arhivach.org/thread/61711/",
+        "767": "https://arhivach.org/thread/61734/",
+        "768": "https://arhivach.org/thread/61774/",
+        "769": "https://arhivach.org/thread/61843/"
+      },
+      "usd": "68.9291"
+    },
+    {
+      "date": "03.02.2015",
+      "threads": {
+        "770": "https://arhivach.org/thread/61932/",
+        "771": "https://arhivach.org/thread/61983/",
+        "772": "https://arhivach.org/thread/62010/",
+        "773": "https://arhivach.org/thread/62046/"
+      },
+      "usd": "69.6640"
+    },
+    {
+      "date": "04.02.2015",
+      "threads": {
+        "774": "https://arhivach.org/thread/62121/",
+        "775": "https://arhivach.org/thread/62169/",
+        "776": "https://arhivach.org/thread/62167/",
+        "777": "https://arhivach.org/thread/62301/"
+      },
+      "usd": "67.7727"
+    },
+    {
+      "date": "05.02.2015",
+      "threads": {
+        "778": "https://arhivach.org/thread/62311/",
+        "779": "https://arhivach.org/thread/62384/",
+        "780": "https://arhivach.org/thread/62386/",
+        "781": "https://arhivach.org/thread/62464/"
+      },
+      "usd": "65.4470"
+    },
+    {
+      "date": "06.02.2015",
+      "threads": {
+        "782": "https://arhivach.org/thread/62530/",
+        "783": "https://arhivach.org/thread/62570/",
+        "784": "https://arhivach.org/thread/62623/",
+        "785": "https://arhivach.org/thread/62648/"
+      },
+      "usd": "68.6113"
+    },
+    {
+      "date": "07.02.2015",
+      "threads": {
+        "785.2": "https://arhivach.org/thread/62654/",
+        "786": "https://arhivach.org/thread/62806/",
+        "787": "https://arhivach.org/thread/62825/"
+      },
+      "usd": "66.0432"
+    },
+    {
+      "date": "08.02.2015",
+      "threads": {
+        "788": "https://arhivach.org/thread/62910/",
+        "789": "https://arhivach.org/thread/62982/",
+        "790": "https://arhivach.org/thread/63043/"
+      },
+      "usd": "66.0432"
+    },
+    {
+      "date": "09.02.2015",
+      "threads": {
+        "791": "https://arhivach.org/thread/63099/",
+        "792": "https://arhivach.org/thread/63145/",
+        "793": "https://arhivach.org/thread/63198/",
+        "794": "https://arhivach.org/thread/63248/",
+        "795": "https://arhivach.org/thread/63295/"
+      },
+      "usd": "66.0432"
+    },
+    {
+      "date": "10.02.2015",
+      "threads": {
+        "796": "https://arhivach.org/thread/63296/",
+        "797": "https://arhivach.org/thread/63392/",
+        "798": "https://arhivach.org/thread/63441/"
+      },
+      "usd": "65.7817"
+    },
+    {
+      "date": "11.02.2015",
+      "threads": {
+        "799": "https://arhivach.org/thread/63478/",
+        "800": "https://arhivach.org/thread/63521/",
+        "801": "https://arhivach.org/thread/63562/",
+        "802": "https://arhivach.org/thread/63641/"
+      },
+      "usd": "65.4469"
+    },
+    {
+      "date": "12.02.2015",
+      "threads": {
+        "803": "https://arhivach.org/thread/63643/",
+        "804": "https://arhivach.org/thread/63721/",
+        "805": "https://arhivach.org/thread/63762/",
+        "806": "https://arhivach.org/thread/63807/",
+        "807": "https://arhivach.org/thread/63834/"
+      },
+      "usd": "66.0585"
+    },
+    {
+      "date": "13.02.2015",
+      "threads": {
+        "808": "https://arhivach.org/thread/63914/",
+        "809": "https://arhivach.org/thread/63982/",
+        "810": "https://arhivach.org/thread/64112/"
+      },
+      "usd": "66.0994"
+    },
+    {
+      "date": "14.02.2015",
+      "threads": {
+        "811": "https://arhivach.org/thread/64113/",
+        "812": "https://arhivach.org/thread/64264/"
+      },
+      "usd": "65.0862"
+    },
+    {
+      "date": "15.02.2015",
+      "threads": {
+        "813": "https://arhivach.org/thread/64266/"
+      },
+      "usd": "65.0862"
+    },
+    {
+      "date": "16.02.2015",
+      "threads": {
+        "814": "https://arhivach.org/thread/64449/",
+        "815": "https://arhivach.org/thread/64492/",
+        "817": "https://arhivach.org/thread/64588/",
+        "817.2": "https://arhivach.org/thread/64600/"
+      },
+      "usd": "65.0862"
+    },
+    {
+      "date": "17.02.2015",
+      "threads": {
+        "818": "https://arhivach.org/thread/64673/",
+        "819": "https://arhivach.org/thread/64676/",
+        "820": "https://arhivach.org/thread/64721/"
+      },
+      "usd": "62.6632"
+    },
+    {
+      "date": "18.02.2015",
+      "threads": {
+        "821": "https://arhivach.org/thread/64899/",
+        "822": "https://arhivach.org/thread/64905/",
+        "823": "https://arhivach.org/thread/64976/"
+      },
+      "usd": "62.8353"
+    },
+    {
+      "date": "19.02.2015",
+      "threads": {
+        "824": "https://arhivach.org/thread/65121/",
+        "825": "https://arhivach.org/thread/65124/",
+        "826": "https://arhivach.org/thread/65230/",
+        "827": "https://arhivach.org/thread/65329/"
+      },
+      "usd": "62.4001"
+    },
+    {
+      "date": "20.02.2015",
+      "threads": {
+        "828": "https://arhivach.org/thread/65328/",
+        "829": "https://arhivach.org/thread/65348/",
+        "830": "https://arhivach.org/thread/65413/"
+      },
+      "usd": "62.1307"
+    },
+    {
+      "date": "21.02.2015",
+      "threads": {
+        "831": "https://arhivach.org/thread/65447/",
+        "832": "https://arhivach.org/thread/65542/",
+        "833": "https://arhivach.org/thread/65599/"
+      },
+      "usd": "61.7235"
+    },
+    {
+      "date": "22.02.2015",
+      "threads": {
+        "834": "https://arhivach.org/thread/65778/",
+        "835": "https://arhivach.org/thread/65781/"
+      },
+      "usd": "61.7235"
+    },
+    {
+      "date": "23.02.2015",
+      "threads": {
+        "836": "https://arhivach.org/thread/66021/",
+        "837": "https://arhivach.org/thread/66038/",
+        "838": "https://arhivach.org/thread/66039/",
+        "839": "https://arhivach.org/thread/66067/"
+      },
+      "usd": "61.7235"
+    },
+    {
+      "date": "24.02.2015",
+      "threads": {
+        "840": "https://arhivach.org/thread/66109/",
+        "841": "https://arhivach.org/thread/66234/",
+        "842": "https://arhivach.org/thread/66235/",
+        "843": "https://arhivach.org/thread/66309/"
+      },
+      "usd": "61.7235"
+    },
+    {
+      "date": "25.02.2015",
+      "threads": {
+        "844": "https://arhivach.org/thread/66334/",
+        "845": "https://arhivach.org/thread/66559/"
+      },
+      "usd": "63.5083"
+    },
+    {
+      "date": "26.02.2015",
+      "threads": {
+        "846": "https://arhivach.org/thread/66662/",
+        "847": "https://arhivach.org/thread/66665/",
+        "848": "https://arhivach.org/thread/66747/"
+      },
+      "usd": "62.5906"
+    },
+    {
+      "date": "27.02.2015",
+      "threads": {
+        "849": "https://arhivach.org/thread/66851/",
+        "850": "https://arhivach.org/thread/66888/",
+        "851": "https://arhivach.org/thread/67020/"
+      },
+      "usd": "60.7109"
+    },
+    {
+      "date": "28.02.2015",
+      "threads": {
+        "852": "https://arhivach.org/thread/67048/",
+        "853": "https://arhivach.org/thread/67049/",
+        "854": "https://arhivach.org/thread/67213/"
+      },
+      "usd": "61.2718"
+    },
+    {
+      "date": "01.03.2015",
+      "threads": {
+        "855": "https://arhivach.org/thread/67236/",
+        "856": "https://arhivach.org/thread/67302/",
+        "857": "https://arhivach.org/thread/67388/",
+        "858": "https://arhivach.org/thread/67442/"
+      },
+      "usd": "61.2718"
+    },
+    {
+      "date": "02.03.2015",
+      "threads": {
+        "859": "https://arhivach.org/thread/67639/",
+        "860": "https://arhivach.org/thread/67626/"
+      },
+      "usd": "61.2718"
+    },
+    {
+      "date": "03.03.2015",
+      "threads": {
+        "861": "https://arhivach.org/thread/67807/",
+        "862": "https://arhivach.org/thread/67808/",
+        "863": "https://arhivach.org/thread/67899/"
+      },
+      "usd": "62.2248"
+    },
+    {
+      "date": "04.03.2015",
+      "threads": {
+        "864": "https://arhivach.org/thread/67918/",
+        "865": "https://arhivach.org/thread/67955/",
+        "866": "https://arhivach.org/thread/68131/"
+      },
+      "usd": "62.3649"
+    },
+    {
+      "date": "05.03.2015",
+      "threads": {
+        "867": "https://arhivach.org/thread/68231/",
+        "868": "https://arhivach.org/thread/68251/"
+      },
+      "usd": "61.8745"
+    },
+    {
+      "date": "06.03.2015",
+      "threads": {
+        "869": "https://arhivach.org/thread/68325/",
+        "870": "https://arhivach.org/thread/68361/"
+      },
+      "usd": "61.8457"
+    },
+    {
+      "date": "07.03.2015",
+      "threads": {
+        "871": "https://arhivach.org/thread/68453/",
+        "872": "https://arhivach.org/thread/68607/"
+      },
+      "usd": "59.9938"
+    },
+    {
+      "date": "08.03.2015",
+      "threads": {
+        "873": "https://arhivach.org/thread/68792/",
+        "874": "https://arhivach.org/thread/68881/"
+      },
+      "usd": "59.9938"
+    },
+    {
+      "date": "09.03.2015",
+      "threads": {
+        "875": "https://arhivach.org/thread/69025/",
+        "876": "https://arhivach.org/thread/69248/"
+      },
+      "usd": "59.9938"
+    },
+    {
+      "date": "10.03.2015",
+      "threads": {
+        "877": "https://arhivach.org/thread/69249/",
+        "878": "https://arhivach.org/thread/69302/"
+      },
+      "usd": "59.9938"
+    },
+    {
+      "date": "11.03.2015",
+      "threads": {
+        "879": "https://arhivach.org/thread/69358/",
+        "880": "https://arhivach.org/thread/69447/",
+        "881": "https://arhivach.org/thread/69469/"
+      },
+      "usd": "60.6649"
+    },
+    {
+      "date": "12.03.2015",
+      "threads": {
+        "882": "https://arhivach.org/thread/69587/",
+        "883": "https://arhivach.org/thread/69531/",
+        "884": "https://arhivach.org/thread/69578/",
+        "885": "https://arhivach.org/thread/69658/"
+      },
+      "usd": "62.6797"
+    },
+    {
+      "date": "13.03.2015",
+      "threads": {
+        "886": "https://arhivach.org/thread/69740/",
+        "887": "https://arhivach.org/thread/69827/",
+        "888": "https://arhivach.org/thread/69886/"
+      },
+      "usd": "60.9595"
+    },
+    {
+      "date": "14.03.2015",
+      "threads": {
+        "889": "https://arhivach.org/thread/69940/",
+        "890": "https://arhivach.org/thread/69989/",
+        "891": "https://arhivach.org/thread/70062/"
+      },
+      "usd": "61.3167"
+    },
+    {
+      "date": "15.03.2015",
+      "threads": {
+        "892": "https://arhivach.org/thread/70260/",
+        "893": "https://arhivach.org/thread/70262/"
+      },
+      "usd": "61.3167"
+    },
+    {
+      "date": "16.03.2015",
+      "threads": {
+        "894": "https://arhivach.org/thread/70378/",
+        "895": "https://arhivach.org/thread/70395/",
+        "896": "https://arhivach.org/thread/70420/",
+        "897": "https://arhivach.org/thread/70461/"
+      },
+      "usd": "61.3167"
+    },
+    {
+      "date": "17.03.2015",
+      "threads": {
+        "898": "https://arhivach.org/thread/70553/",
+        "899": "https://arhivach.org/thread/70651/",
+        "900": "https://arhivach.org/thread/70706/"
+      },
+      "usd": "62.1497"
+    },
+    {
+      "date": "18.03.2015",
+      "threads": {
+        "901": "https://arhivach.org/thread/70780/",
+        "902": "https://arhivach.org/thread/70821/"
+      },
+      "usd": "61.7510"
+    },
+    {
+      "date": "19.03.2015",
+      "threads": {
+        "903": "https://arhivach.org/thread/70969/",
+        "904": "https://arhivach.org/thread/70999/",
+        "905": "https://arhivach.org/thread/71078/"
+      },
+      "usd": "61.3483"
+    },
+    {
+      "date": "20.03.2015",
+      "threads": {
+        "906": "https://arhivach.org/thread/71185/"
+      },
+      "usd": "59.8308"
+    },
+    {
+      "date": "21.03.2015",
+      "threads": {
+        "907": "https://arhivach.org/thread/71430/",
+        "908": "https://arhivach.org/thread/71431/"
+      },
+      "usd": "60.0341"
+    },
+    {
+      "date": "22.03.2015",
+      "threads": {
+        "909": "https://arhivach.org/thread/71513/",
+        "910": "https://arhivach.org/thread/71640/"
+      },
+      "usd": "60.0341"
+    },
+    {
+      "date": "23.03.2015",
+      "threads": {
+        "911": "https://arhivach.org/thread/71752/",
+        "912": "https://arhivach.org/thread/71813/",
+        "913": "https://arhivach.org/thread/71879/"
+      },
+      "usd": "60.0341"
+    },
+    {
+      "date": "24.03.2015",
+      "threads": {
+        "914": "https://arhivach.org/thread/714/",
+        "915": "https://arhivach.org/thread/72069/"
+      },
+      "usd": "59.4452"
+    },
+    {
+      "date": "25.03.2015",
+      "threads": {
+        "916": "https://arhivach.org/thread/72148/",
+        "917": "https://arhivach.org/thread/72261/",
+        "918": "https://arhivach.org/thread/72307/",
+        "919": "https://arhivach.org/thread/72391/"
+      },
+      "usd": "58.7710"
+    },
+    {
+      "date": "26.03.2015",
+      "threads": {
+        "920": "https://arhivach.org/thread/72445/",
+        "921": "https://arhivach.org/thread/72498/",
+        "922": "https://arhivach.org/thread/72500/",
+        "923": "https://arhivach.org/thread/72501/"
+      },
+      "usd": "57.3879"
+    },
+    {
+      "date": "27.03.2015",
+      "threads": {
+        "924": "https://arhivach.org/thread/72561/",
+        "925": "https://arhivach.org/thread/72763/",
+        "926": "https://arhivach.org/thread/72764/"
+      },
+      "usd": "56.4271"
+    },
+    {
+      "date": "28.03.2015",
+      "threads": {
+        "927": "https://arhivach.org/thread/72875/"
+      },
+      "usd": "57.7279"
+    },
+    {
+      "date": "29.03.2015",
+      "threads": {
+        "928": "https://arhivach.org/thread/73016/",
+        "929": "https://arhivach.org/thread/73192/"
+      },
+      "usd": "57.7279"
+    },
+    {
+      "date": "30.03.2015",
+      "threads": {
+        "930": "https://arhivach.org/thread/73291/",
+        "931": "https://arhivach.org/thread/73358/"
+      },
+      "usd": "57.7279"
+    },
+    {
+      "date": "31.03.2015",
+      "threads": {
+        "932": "https://arhivach.org/thread/73593/"
+      },
+      "usd": "58.4643"
+    },
+    {
+      "date": "01.04.2015",
+      "threads": {
+        "933": "https://arhivach.org/thread/73713/"
+      },
+      "usd": "57.6500"
+    },
+    {
+      "date": "02.04.2015",
+      "threads": {
+        "934": "https://arhivach.org/thread/73890/",
+        "935": "https://arhivach.org/thread/74129/"
+      },
+      "usd": "58.3536"
+    },
+    {
+      "date": "03.04.2015",
+      "threads": {
+        "936": "https://arhivach.org/thread/74130/",
+        "937": "https://arhivach.org/thread/74220/",
+        "938": "https://arhivach.org/thread/74571/"
+      },
+      "usd": "56.9902"
+    },
+    {
+      "date": "05.04.2015",
+      "threads": {
+        "939": "https://arhivach.org/thread/74764/"
+      },
+      "usd": "56.9902"
+    },
+    {
+      "date": "06.04.2015",
+      "threads": {
+        "940": "https://arhivach.org/thread/74873/"
+      },
+      "usd": "56.9902"
+    },
+    {
+      "date": "07.04.2015",
+      "threads": {
+        "941": "https://arhivach.org/thread/74975/",
+        "942": "https://arhivach.org/thread/75055/",
+        "943": "https://arhivach.org/thread/75114/"
+      },
+      "usd": "56.5161"
+    },
+    {
+      "date": "08.04.2015",
+      "threads": {
+        "944": "https://arhivach.org/thread/75258/",
+        "945": "https://arhivach.org/thread/75281/",
+        "946": "https://arhivach.org/thread/75313/"
+      },
+      "usd": "55.3328"
+    },
+    {
+      "date": "09.04.2015",
+      "threads": {
+        "947": "https://arhivach.org/thread/75596/",
+        "949": "https://arhivach.org/thread/75595/",
+        "950": "https://arhivach.org/thread/75515/",
+        "951": "https://arhivach.org/thread/75594/"
+      },
+      "usd": "54.0270"
+    },
+    {
+      "date": "10.04.2015",
+      "threads": {
+        "953": "https://arhivach.org/thread/75726/",
+        "954": "https://arhivach.org/thread/75729/",
+        "955": "https://arhivach.org/thread/75751/",
+        "956": "https://arhivach.org/thread/75846/"
+      },
+      "usd": "52.5424"
+    },
+    {
+      "date": "11.04.2015",
+      "threads": {
+        "957": "https://arhivach.org/thread/75886/",
+        "958": "https://arhivach.org/thread/75957/",
+        "959": "https://arhivach.org/thread/76341/"
+      },
+      "usd": "51.0678"
+    },
+    {
+      "date": "13.04.2015",
+      "threads": {
+        "960": "https://arhivach.org/thread/76342/",
+        "961": "https://arhivach.org/thread/76636/"
+      },
+      "usd": "51.0678"
+    },
+    {
+      "date": "14.04.2015",
+      "threads": {
+        "962": "https://arhivach.org/thread/76633/",
+        "962.2": "https://arhivach.org/thread/76635/",
+        "963": "https://arhivach.org/thread/76816/"
+      },
+      "usd": "52.4220"
+    },
+    {
+      "date": "15.04.2015",
+      "threads": {
+        "964": "https://arhivach.org/thread/76899/",
+        "964.2": "https://arhivach.org/thread/76817/",
+        "965": "https://arhivach.org/thread/76901/",
+        "966": "https://arhivach.org/thread/76888/"
+      },
+      "usd": "51.9749"
+    },
+    {
+      "date": "16.04.2015",
+      "threads": {
+        "967": "https://arhivach.org/thread/76982/",
+        "968": "https://arhivach.org/thread/77049/",
+        "969": "https://arhivach.org/thread/77290/"
+      },
+      "usd": "50.5033"
+    },
+    {
+      "date": "17.04.2015",
+      "threads": {
+        "970": "https://arhivach.org/thread/77289/"
+      },
+      "usd": "49.6749"
+    },
+    {
+      "date": "18.04.2015",
+      "threads": {
+        "971": "https://arhivach.org/thread/77509/"
+      },
+      "usd": "50.5295"
+    },
+    {
+      "date": "20.04.2015",
+      "threads": {
+        "972": "https://arhivach.org/thread/77861/",
+        "973": "https://arhivach.org/thread/78085/"
+      },
+      "usd": "50.5295"
+    },
+    {
+      "date": "21.04.2015",
+      "threads": {
+        "974": "https://arhivach.org/thread/78086/",
+        "975": "https://arhivach.org/thread/78285/"
+      },
+      "usd": "51.5207"
+    },
+    {
+      "date": "22.04.2015",
+      "threads": {
+        "976": "https://arhivach.org/thread/78371/",
+        "977": "https://arhivach.org/thread/78402/"
+      },
+      "usd": "53.9728"
+    },
+    {
+      "date": "23.04.2015",
+      "threads": {
+        "978": "https://arhivach.org/thread/78674/"
+      },
+      "usd": "53.6555"
+    },
+    {
+      "date": "24.04.2015",
+      "threads": {
+        "979": "https://arhivach.org/thread/78892/"
+      },
+      "usd": "51.6011"
+    },
+    {
+      "date": "25.04.2015",
+      "threads": {
+        "980": "https://arhivach.org/thread/79257/"
+      },
+      "usd": "50.2473"
+    },
+    {
+      "date": "26.04.2015",
+      "threads": {
+        "981": "https://arhivach.org/thread/79258/"
+      },
+      "usd": "50.2473"
+    },
+    {
+      "date": "27.04.2015",
+      "threads": {
+        "982": "https://arhivach.org/thread/79647/"
+      },
+      "usd": "50.2473"
+    },
+    {
+      "date": "28.04.2015",
+      "threads": {
+        "983": "https://arhivach.org/thread/79648/"
+      },
+      "usd": "51.4690"
+    },
+    {
+      "date": "29.04.2015",
+      "threads": {
+        "984": "https://arhivach.org/thread/80054/"
+      },
+      "usd": "52.3041"
+    },
+    {
+      "date": "30.04.2015",
+      "threads": {
+        "985": "https://arhivach.org/thread/80056/"
+      },
+      "usd": "51.7029"
+    },
+    {
+      "date": "01.05.2015",
+      "threads": {
+        "986": "https://arhivach.org/thread/80475/"
+      },
+      "usd": "51.1388"
+    },
+    {
+      "date": "04.05.2015",
+      "threads": {
+        "987": "https://arhivach.org/thread/81103/"
+      },
+      "usd": "51.1388"
+    },
+    {
+      "date": "05.05.2015",
+      "threads": {
+        "988": "https://arhivach.org/thread/81116/"
+      },
+      "usd": "51.1388"
+    },
+    {
+      "date": "06.05.2015",
+      "threads": {
+        "989": "https://arhivach.org/thread/81448/"
+      },
+      "usd": "51.7574"
+    },
+    {
+      "date": "07.05.2015",
+      "threads": {
+        "990": "https://arhivach.org/thread/81472/"
+      },
+      "usd": "49.9816"
+    },
+    {
+      "date": "08.05.2015",
+      "threads": {
+        "991": "https://arhivach.org/thread/82008/"
+      },
+      "usd": "50.3615"
+    },
+    {
+      "date": "11.05.2015",
+      "threads": {
+        "993": "https://arhivach.org/thread/82500/"
+      },
+      "usd": "50.3615"
+    },
+    {
+      "date": "12.05.2015",
+      "threads": {
+        "994": "https://arhivach.org/thread/82663/"
+      },
+      "usd": "50.3615"
+    },
+    {
+      "date": "13.05.2015",
+      "threads": {
+        "995": "https://arhivach.org/thread/82680/",
+        "996": "https://arhivach.org/thread/82840/",
+        "997": "https://arhivach.org/thread/82919/"
+      },
+      "usd": "50.9140"
+    },
+    {
+      "date": "14.05.2015",
+      "threads": {
+        "998": "https://arhivach.org/thread/82969/",
+        "999": "https://arhivach.org/thread/82991/"
+      },
+      "usd": "49.5366"
+    },
+    {
+      "date": "15.05.2015",
+      "threads": {
+        "1000": "https://arhivach.org/thread/83131/",
+        "1001": "https://arhivach.org/thread/83237/"
+      },
+      "usd": "50.0774"
+    },
+    {
+      "date": "16.05.2015",
+      "threads": {
+        "1002": "https://arhivach.org/thread/83466/"
+      },
+      "usd": "50.0115"
+    },
+    {
+      "date": "17.05.2015",
+      "threads": {
+        "1003": "https://arhivach.org/thread/83669/"
+      },
+      "usd": "50.0115"
+    },
+    {
+      "date": "18.05.2015",
+      "threads": {
+        "1004": "https://arhivach.org/thread/84026/"
+      },
+      "usd": "50.0115"
+    },
+    {
+      "date": "20.05.2015",
+      "threads": {
+        "1005": "https://arhivach.org/thread/84260/"
+      },
+      "usd": "49.1777"
+    },
+    {
+      "date": "21.05.2015",
+      "threads": {
+        "1006": "https://arhivach.org/thread/84398/"
+      },
+      "usd": "49.7919"
+    },
+    {
+      "date": "22.05.2015",
+      "threads": {
+        "1007": "https://arhivach.org/thread/85032/"
+      },
+      "usd": "49.9204"
+    },
+    {
+      "date": "24.05.2015",
+      "threads": {
+        "1008": "https://arhivach.org/thread/85039/"
+      },
+      "usd": "49.7901"
+    },
+    {
+      "date": "27.05.2015",
+      "threads": {
+        "1009": "https://arhivach.org/thread/85603/",
+        "1010": "https://arhivach.org/thread/85804/"
+      },
+      "usd": "50.3223"
+    },
+    {
+      "date": "28.05.2015",
+      "threads": {
+        "1011": "https://arhivach.org/thread/85964/"
+      },
+      "usd": "51.0178"
+    },
+    {
+      "date": "29.05.2015",
+      "threads": {
+        "1012": "https://arhivach.org/thread/85982/",
+        "1013": "https://arhivach.org/thread/86388/"
+      },
+      "usd": "52.2907"
+    },
+    {
+      "date": "31.05.2015",
+      "threads": {
+        "1014": "https://arhivach.org/thread/86515/"
+      },
+      "usd": "52.9716"
+    },
+    {
+      "date": "01.06.2015",
+      "threads": {
+        "1015": "https://arhivach.org/thread/86874/"
+      },
+      "usd": "52.8213"
+    },
+    {
+      "date": "03.06.2015",
+      "threads": {
+        "1016": "https://arhivach.org/thread/87034/",
+        "1017": "https://arhivach.org/thread/87123/"
+      },
+      "usd": "53.4413"
+    },
+    {
+      "date": "04.06.2015",
+      "threads": {
+        "1018": "https://arhivach.org/thread/87370/",
+        "1019": "https://arhivach.org/thread/87394/",
+        "1020": "https://arhivach.org/thread/87396/"
+      },
+      "usd": "53.0590"
+    },
+    {
+      "date": "05.06.2015",
+      "threads": {
+        "1021": "https://arhivach.org/thread/87476/",
+        "1022": "https://arhivach.org/thread/87542/",
+        "1023": "https://arhivach.org/thread/87610/",
+        "1024": "https://arhivach.org/thread/87640/"
+      },
+      "usd": "54.9908"
+    },
+    {
+      "date": "06.06.2015",
+      "threads": {
+        "1025": "https://arhivach.org/thread/87781/"
+      },
+      "usd": "56.2463"
+    },
+    {
+      "date": "07.06.2015",
+      "threads": {
+        "1026": "https://arhivach.org/thread/88067/"
+      },
+      "usd": "56.2463"
+    },
+    {
+      "date": "08.06.2015",
+      "threads": {
+        "1027": "https://arhivach.org/thread/88206/",
+        "1028": "https://arhivach.org/thread/88289/"
+      },
+      "usd": "56.2463"
+    },
+    {
+      "date": "09.06.2015",
+      "threads": {
+        "1029": "https://2ch.hk/po/res/9214449.html"
+      },
+      "usd": "56.0435"
+    }
+  ]
+};

@@ -1,0 +1,133 @@
+@import url('reset.css');
+@import url(http://fonts.googleapis.com/css?family=Roboto:100,300,400,500,600&subset=latin,cyrillic);
+
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+body {
+  background: #f6f6f6;
+  font-family: Roboto, Helvetica, Arial, sans-serif;
+  font-size: 13px;
+  line-height: 1.5;
+  color: #333;
+}
+
+.header {
+  height: 60px;
+  padding: 15px 20px;
+  background: #fff;
+  box-shadow: 0 2px 2px rgba(0, 0, 0, 0.1);
+  line-height: 30px;
+  text-transform: uppercase;
+}
+
+.logo {
+  font-weight: 600;
+  font-size: 28px;
+  letter-spacing: 2px;
+}
+
+.logo i,
+.logo span {
+  margin-left: 5px;
+  font-weight: 100;
+  font-size: 20px;
+  letter-spacing: -0.5px;
+}
+
+.logo span {
+  color: #00d19f;
+}
+
+.logo i {
+  font-style: normal;
+  color: #aaa;
+}
+
+.page {
+  min-width: 1000px;
+  padding: 0 20px;
+  margin: 30px auto;
+}
+
+#chart {
+  width: 70%;
+  float: left;
+}
+
+.list {
+  width: 30%;
+  padding-left: 25px;
+  float: left;
+}
+
+.tooltip-header {
+  font-weight: 400;
+  font-size: 12px;
+}
+
+.tooltip-value {
+  font-weight: 600;
+  font-size: 16px;
+}
+
+.list {
+  width: 30%;
+  padding-left: 30px;
+  float: left;
+}
+
+.hint {
+  margin: 30px;
+  font-weight: 300;
+  font-size: 15px;
+  line-height: 1.5;
+  text-align: center;
+  color: #999;
+}
+
+.currency {
+  display: none;
+}
+
+.currency .date {
+  margin-bottom: 0;
+  font-weight: 300;
+  font-size: 24px;
+  color: #666;
+}
+
+.currency .value {
+  font-weight: 500;
+  font-size: 32px;
+  margin-bottom: 15px;
+  padding-bottom: 15px;
+  border-bottom: 1px solid #ddd;
+}
+
+.currency .value span {
+  font-weight: 300;
+  color: #999;
+}
+
+.currency .value span:last-child {
+  margin-left: 4px;
+}
+
+.currency .threads span {
+  margin-right: 4px;
+  font-weight: 600;
+  color: #666;
+}
+
+.currency .threads a {
+  color: #f60;
+}
+
+.currency .threads a:hover {
+  color: #f90;
+}
+

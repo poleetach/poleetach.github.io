@@ -3175,9 +3175,16 @@ var data = {
     {
       "date": "11.06.2015",
       "threads": {
-        "1031": "https://2ch.hk/po/res/9230435.html"
+        "1031": "http://arhivach.org/thread/88805/"
       },
-      "usd": "55.9100"
+      "usd": "54.821"
+    },
+    {
+      "date": "12.06.2015",
+      "threads": {
+        "1032": "https://arhivach.org/thread/89013/"
+      },
+      "usd": "54.5285"
     }
   ]
 };

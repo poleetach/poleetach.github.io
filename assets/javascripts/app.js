@@ -1,5 +1,6 @@
-$(function() {
+var usd = [], dates = [], threads = [], listView = '';
 
+function switchView() {
   $('.switch a').on('click', function(e) {
     e.preventDefault();
     var $this = $(this);
@@ -18,12 +19,10 @@ $(function() {
       $('.chart-view').show();
     }
   });
+};
 
 
-  var usd = [], dates = [], threads = [];
-
-  var listView = '';
-
+function prepareData(data) {
   $.each(data.obr, function(i, val) {
     usd.push(parseFloat(val.usd));
     dates.push(val.date);
@@ -45,9 +44,10 @@ $(function() {
                   '</li>' +
                 '</ul>';
   });
+};
 
-  $('.list-view-container').html(listView);
 
+function buildChart(data) {
   $('#chart').highcharts({
     chart: {
       animation: false,
@@ -139,4 +139,28 @@ $(function() {
       }
     }]
   });
+};
+
+
+function buildListView(data) {
+  $('.list-view-container').html(listView);
+};
+
+
+$(function() {
+  $.ajax({
+    type: 'GET',
+    url: 'https://api.github.com/gists/b9cfd018d8e60cec2ecb',
+    success: function (result) {
+      d = JSON.parse(result.files['data.json'].content);
+      prepareData(d);
+      buildChart(d);
+      buildListView(d);
+    },
+    error: function (xhr, errorText) {
+      console.log('Error ' + xhr.responseText);
+    }
+  });
+
+  switchView();
 });

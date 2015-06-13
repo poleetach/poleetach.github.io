@@ -3182,7 +3182,8 @@ var data = {
     {
       "date": "12.06.2015",
       "threads": {
-        "1032": "https://arhivach.org/thread/89013/"
+        "1032": "https://arhivach.org/thread/89013/",
+        "1033": "https://arhivach.org/thread/89080/"
       },
       "usd": "54.5285"
     }
